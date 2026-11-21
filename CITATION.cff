@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '護産廳小日記（1897年，韓國學中央研究院藏書閣 K2-3618） / Hosan-cheong so ilgi [Daily Records of
+  the Royal Maternity Directorate for Consort Eom]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/aks-k2-3618-royal-maternity-diary
+keywords:
+- 護産廳小日記
+- 丁酉年護産廳小日記
+- Hosan-cheong so ilgi
+- 호산청 소일기
+- 護產廳
+- 嚴氏
+- '1897'
+- 慶運宮
+- 朝鮮宮廷醫學
+- 產後照護
+- 醫女
+- 新生兒照護
+- Royal Maternity Directorate
+- Jangseogak
+- Postpartum care
+- Infant care
+- Medical women
+- Literary Chinese
+- TEI

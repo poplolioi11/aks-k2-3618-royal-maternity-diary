@@ -1,0 +1,1072 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>護産廳小日記</title>
+        <title type="alternate">Hosan-cheong so ilgi [Daily Records of the Royal Maternity Directorate for Consort Eom]</title>
+        <author>護産廳</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>漢城慶運宮（今首爾）</settlement>
+            <repository>韓國學中央研究院藏書閣</repository>
+            <collection>藏書閣王室古書</collection>
+            <idno>K2-3618</idno>
+            <altIdentifier>
+              <idno>AKSK23618</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>《護産廳小日記》是1897年漢城慶運宮護産廳所編漢文日記，記宮人嚴氏及新生兒的產後照護。七天內分時記載母親的氣候、飲食、嬰兒哺乳、睡眠及排泄，另記承辦醫官、醫女、宮廷傳報、沐浴、儀節及賞給。底本為韓國學中央研究院藏書閣 K2-3618。</p>
+              <ref target="https://jsg.aks.ac.kr/dir/view?dataId=JSG_K2-3618">館方書目</ref>
+              <ref target="https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-3618%7C001">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>光武元年丁酉（1897），原文起陰曆九月二十五日，逐日記至十月初一日，另存十月十五日預定安排。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>原列依畫面順序編碼，雙面右後左，正文、同欄小字與館藏後層分記。館方影像為 Deep Zoom；原幅校對依公開閱覽路徑。估計欄界採公開影像第12層的畫素座標。小字位置若未能定位至原文確切字後，保留位置說明與所在主欄。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143548699" xml:id="f01">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143548699" type="source-image-viewer" />
+    </surface>
+    <surface n="2" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143608137" xml:id="f02">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143608137" type="source-image-viewer" />
+      <zone type="column-position" ulx="1526" uly="594" lrx="1628" lry="2413" xml:id="f02-l-c01-region" />
+      <zone type="column-position" ulx="1424" uly="594" lrx="1526" lry="2413" xml:id="f02-l-c02-region" />
+      <zone type="column-position" ulx="1322" uly="594" lrx="1424" lry="2413" xml:id="f02-l-c03-region" />
+      <zone type="column-position" ulx="1220" uly="594" lrx="1322" lry="2413" xml:id="f02-l-c04-region" />
+      <zone type="column-position" ulx="1118" uly="594" lrx="1220" lry="2413" xml:id="f02-l-c05-region" />
+      <zone type="column-position" ulx="1015" uly="594" lrx="1118" lry="2413" xml:id="f02-l-c06-region" />
+      <zone type="column-position" ulx="913" uly="594" lrx="1015" lry="2413" xml:id="f02-l-c07-region" />
+      <zone type="column-position" ulx="811" uly="594" lrx="913" lry="2413" xml:id="f02-l-c08-region" />
+      <zone type="column-position" ulx="709" uly="594" lrx="811" lry="2413" xml:id="f02-l-c09-region" />
+      <zone type="column-position" ulx="607" uly="594" lrx="709" lry="2413" xml:id="f02-l-c10-region" />
+      <zone type="column-position" ulx="505" uly="594" lrx="607" lry="2413" xml:id="f02-l-c11-region" />
+      <zone type="column-position" ulx="402" uly="594" lrx="505" lry="2413" xml:id="f02-l-c12-region" />
+      <zone type="column-position" ulx="300" uly="594" lrx="402" lry="2413" xml:id="f02-l-c13-region" />
+      <zone type="column-position" ulx="198" uly="594" lrx="300" lry="2413" xml:id="f02-l-c14-region" />
+    </surface>
+    <surface n="3" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143631131" xml:id="f03">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143631131" type="source-image-viewer" />
+      <zone type="column-position" ulx="3178" uly="587" lrx="3281" lry="2406" xml:id="f03-r-c01-region" />
+      <zone type="column-position" ulx="3074" uly="587" lrx="3178" lry="2406" xml:id="f03-r-c02-region" />
+      <zone type="column-position" ulx="2971" uly="587" lrx="3074" lry="2406" xml:id="f03-r-c03-region" />
+      <zone type="column-position" ulx="2868" uly="587" lrx="2971" lry="2406" xml:id="f03-r-c04-region" />
+      <zone type="column-position" ulx="2765" uly="587" lrx="2868" lry="2406" xml:id="f03-r-c05-region" />
+      <zone type="column-position" ulx="2662" uly="587" lrx="2765" lry="2406" xml:id="f03-r-c06-region" />
+      <zone type="column-position" ulx="2558" uly="587" lrx="2662" lry="2406" xml:id="f03-r-c07-region" />
+      <zone type="column-position" ulx="2455" uly="587" lrx="2558" lry="2406" xml:id="f03-r-c08-region" />
+      <zone type="column-position" ulx="2352" uly="587" lrx="2455" lry="2406" xml:id="f03-r-c09-region" />
+      <zone type="column-position" ulx="2249" uly="587" lrx="2352" lry="2406" xml:id="f03-r-c10-region" />
+      <zone type="column-position" ulx="2146" uly="587" lrx="2249" lry="2406" xml:id="f03-r-c11-region" />
+      <zone type="column-position" ulx="2042" uly="587" lrx="2146" lry="2406" xml:id="f03-r-c12-region" />
+      <zone type="column-position" ulx="1939" uly="587" lrx="2042" lry="2406" xml:id="f03-r-c13-region" />
+      <zone type="column-position" ulx="1836" uly="587" lrx="1939" lry="2406" xml:id="f03-r-c14-region" />
+      <zone type="column-position" ulx="1521" uly="594" lrx="1623" lry="2404" xml:id="f03-l-c01-region" />
+      <zone type="column-position" ulx="1419" uly="594" lrx="1521" lry="2404" xml:id="f03-l-c02-region" />
+      <zone type="column-position" ulx="1317" uly="594" lrx="1419" lry="2404" xml:id="f03-l-c03-region" />
+      <zone type="column-position" ulx="1215" uly="594" lrx="1317" lry="2404" xml:id="f03-l-c04-region" />
+      <zone type="column-position" ulx="1113" uly="594" lrx="1215" lry="2404" xml:id="f03-l-c05-region" />
+      <zone type="column-position" ulx="1011" uly="594" lrx="1113" lry="2404" xml:id="f03-l-c06-region" />
+      <zone type="column-position" ulx="908" uly="594" lrx="1011" lry="2404" xml:id="f03-l-c07-region" />
+      <zone type="column-position" ulx="806" uly="594" lrx="908" lry="2404" xml:id="f03-l-c08-region" />
+      <zone type="column-position" ulx="704" uly="594" lrx="806" lry="2404" xml:id="f03-l-c09-region" />
+      <zone type="column-position" ulx="602" uly="594" lrx="704" lry="2404" xml:id="f03-l-c10-region" />
+      <zone type="column-position" ulx="500" uly="594" lrx="602" lry="2404" xml:id="f03-l-c11-region" />
+      <zone type="column-position" ulx="398" uly="594" lrx="500" lry="2404" xml:id="f03-l-c12-region" />
+      <zone type="column-position" ulx="295" uly="594" lrx="398" lry="2404" xml:id="f03-l-c13-region" />
+      <zone type="column-position" ulx="193" uly="594" lrx="295" lry="2404" xml:id="f03-l-c14-region" />
+    </surface>
+    <surface n="4" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143659820" xml:id="f04">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143659820" type="source-image-viewer" />
+      <zone type="column-position" ulx="3170" uly="592" lrx="3273" lry="2401" xml:id="f04-r-c01-region" />
+      <zone type="column-position" ulx="3067" uly="592" lrx="3170" lry="2401" xml:id="f04-r-c02-region" />
+      <zone type="column-position" ulx="2964" uly="592" lrx="3067" lry="2401" xml:id="f04-r-c03-region" />
+      <zone type="column-position" ulx="2861" uly="592" lrx="2964" lry="2401" xml:id="f04-r-c04-region" />
+      <zone type="column-position" ulx="2758" uly="592" lrx="2861" lry="2401" xml:id="f04-r-c05-region" />
+      <zone type="column-position" ulx="2654" uly="592" lrx="2758" lry="2401" xml:id="f04-r-c06-region" />
+      <zone type="column-position" ulx="2551" uly="592" lrx="2654" lry="2401" xml:id="f04-r-c07-region" />
+      <zone type="column-position" ulx="2448" uly="592" lrx="2551" lry="2401" xml:id="f04-r-c08-region" />
+      <zone type="column-position" ulx="2345" uly="592" lrx="2448" lry="2401" xml:id="f04-r-c09-region" />
+      <zone type="column-position" ulx="2242" uly="592" lrx="2345" lry="2401" xml:id="f04-r-c10-region" />
+      <zone type="column-position" ulx="2138" uly="592" lrx="2242" lry="2401" xml:id="f04-r-c11-region" />
+      <zone type="column-position" ulx="2035" uly="592" lrx="2138" lry="2401" xml:id="f04-r-c12-region" />
+      <zone type="column-position" ulx="1932" uly="592" lrx="2035" lry="2401" xml:id="f04-r-c13-region" />
+      <zone type="column-position" ulx="1829" uly="592" lrx="1932" lry="2401" xml:id="f04-r-c14-region" />
+      <zone type="column-position" ulx="1521" uly="597" lrx="1623" lry="2401" xml:id="f04-l-c01-region" />
+      <zone type="column-position" ulx="1419" uly="597" lrx="1521" lry="2401" xml:id="f04-l-c02-region" />
+      <zone type="column-position" ulx="1318" uly="597" lrx="1419" lry="2401" xml:id="f04-l-c03-region" />
+      <zone type="column-position" ulx="1216" uly="597" lrx="1318" lry="2401" xml:id="f04-l-c04-region" />
+      <zone type="column-position" ulx="1114" uly="597" lrx="1216" lry="2401" xml:id="f04-l-c05-region" />
+      <zone type="column-position" ulx="1012" uly="597" lrx="1114" lry="2401" xml:id="f04-l-c06-region" />
+      <zone type="column-position" ulx="910" uly="597" lrx="1012" lry="2401" xml:id="f04-l-c07-region" />
+      <zone type="column-position" ulx="808" uly="597" lrx="910" lry="2401" xml:id="f04-l-c08-region" />
+      <zone type="column-position" ulx="706" uly="597" lrx="808" lry="2401" xml:id="f04-l-c09-region" />
+      <zone type="column-position" ulx="604" uly="597" lrx="706" lry="2401" xml:id="f04-l-c10-region" />
+      <zone type="column-position" ulx="502" uly="597" lrx="604" lry="2401" xml:id="f04-l-c11-region" />
+      <zone type="column-position" ulx="400" uly="597" lrx="502" lry="2401" xml:id="f04-l-c12-region" />
+      <zone type="column-position" ulx="298" uly="597" lrx="400" lry="2401" xml:id="f04-l-c13-region" />
+      <zone type="column-position" ulx="196" uly="597" lrx="298" lry="2401" xml:id="f04-l-c14-region" />
+    </surface>
+    <surface n="5" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143742782" xml:id="f05">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143742782" type="source-image-viewer" />
+      <zone type="column-position" ulx="3174" uly="599" lrx="3276" lry="2399" xml:id="f05-r-c01-region" />
+      <zone type="column-position" ulx="3072" uly="599" lrx="3174" lry="2399" xml:id="f05-r-c02-region" />
+      <zone type="column-position" ulx="2969" uly="599" lrx="3072" lry="2399" xml:id="f05-r-c03-region" />
+      <zone type="column-position" ulx="2867" uly="599" lrx="2969" lry="2399" xml:id="f05-r-c04-region" />
+      <zone type="column-position" ulx="2765" uly="599" lrx="2867" lry="2399" xml:id="f05-r-c05-region" />
+      <zone type="column-position" ulx="2663" uly="599" lrx="2765" lry="2399" xml:id="f05-r-c06-region" />
+      <zone type="column-position" ulx="2561" uly="599" lrx="2663" lry="2399" xml:id="f05-r-c07-region" />
+      <zone type="column-position" ulx="2459" uly="599" lrx="2561" lry="2399" xml:id="f05-r-c08-region" />
+      <zone type="column-position" ulx="2357" uly="599" lrx="2459" lry="2399" xml:id="f05-r-c09-region" />
+      <zone type="column-position" ulx="2254" uly="599" lrx="2357" lry="2399" xml:id="f05-r-c10-region" />
+      <zone type="column-position" ulx="2152" uly="599" lrx="2254" lry="2399" xml:id="f05-r-c11-region" />
+      <zone type="column-position" ulx="2050" uly="599" lrx="2152" lry="2399" xml:id="f05-r-c12-region" />
+      <zone type="column-position" ulx="1948" uly="599" lrx="2050" lry="2399" xml:id="f05-r-c13-region" />
+      <zone type="column-position" ulx="1846" uly="599" lrx="1948" lry="2399" xml:id="f05-r-c14-region" />
+      <zone type="column-position" ulx="1541" uly="592" lrx="1643" lry="2406" xml:id="f05-l-c01-region" />
+      <zone type="column-position" ulx="1439" uly="592" lrx="1541" lry="2406" xml:id="f05-l-c02-region" />
+      <zone type="column-position" ulx="1337" uly="592" lrx="1439" lry="2406" xml:id="f05-l-c03-region" />
+      <zone type="column-position" ulx="1235" uly="592" lrx="1337" lry="2406" xml:id="f05-l-c04-region" />
+      <zone type="column-position" ulx="1133" uly="592" lrx="1235" lry="2406" xml:id="f05-l-c05-region" />
+      <zone type="column-position" ulx="1031" uly="592" lrx="1133" lry="2406" xml:id="f05-l-c06-region" />
+      <zone type="column-position" ulx="929" uly="592" lrx="1031" lry="2406" xml:id="f05-l-c07-region" />
+      <zone type="column-position" ulx="827" uly="592" lrx="929" lry="2406" xml:id="f05-l-c08-region" />
+      <zone type="column-position" ulx="725" uly="592" lrx="827" lry="2406" xml:id="f05-l-c09-region" />
+      <zone type="column-position" ulx="623" uly="592" lrx="725" lry="2406" xml:id="f05-l-c10-region" />
+      <zone type="column-position" ulx="521" uly="592" lrx="623" lry="2406" xml:id="f05-l-c11-region" />
+      <zone type="column-position" ulx="419" uly="592" lrx="521" lry="2406" xml:id="f05-l-c12-region" />
+      <zone type="column-position" ulx="317" uly="592" lrx="419" lry="2406" xml:id="f05-l-c13-region" />
+      <zone type="column-position" ulx="215" uly="592" lrx="317" lry="2406" xml:id="f05-l-c14-region" />
+    </surface>
+    <surface n="6" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143827383" xml:id="f06">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143827383" type="source-image-viewer" />
+      <zone type="column-position" ulx="3162" uly="577" lrx="3264" lry="2399" xml:id="f06-r-c01-region" />
+      <zone type="column-position" ulx="3060" uly="577" lrx="3162" lry="2399" xml:id="f06-r-c02-region" />
+      <zone type="column-position" ulx="2958" uly="577" lrx="3060" lry="2399" xml:id="f06-r-c03-region" />
+      <zone type="column-position" ulx="2857" uly="577" lrx="2958" lry="2399" xml:id="f06-r-c04-region" />
+      <zone type="column-position" ulx="2755" uly="577" lrx="2857" lry="2399" xml:id="f06-r-c05-region" />
+      <zone type="column-position" ulx="2653" uly="577" lrx="2755" lry="2399" xml:id="f06-r-c06-region" />
+      <zone type="column-position" ulx="2551" uly="577" lrx="2653" lry="2399" xml:id="f06-r-c07-region" />
+      <zone type="column-position" ulx="2449" uly="577" lrx="2551" lry="2399" xml:id="f06-r-c08-region" />
+      <zone type="column-position" ulx="2348" uly="577" lrx="2449" lry="2399" xml:id="f06-r-c09-region" />
+      <zone type="column-position" ulx="2246" uly="577" lrx="2348" lry="2399" xml:id="f06-r-c10-region" />
+      <zone type="column-position" ulx="2144" uly="577" lrx="2246" lry="2399" xml:id="f06-r-c11-region" />
+      <zone type="column-position" ulx="2042" uly="577" lrx="2144" lry="2399" xml:id="f06-r-c12-region" />
+      <zone type="column-position" ulx="1940" uly="577" lrx="2042" lry="2399" xml:id="f06-r-c13-region" />
+      <zone type="column-position" ulx="1838" uly="577" lrx="1940" lry="2399" xml:id="f06-r-c14-region" />
+      <zone type="column-position" ulx="1544" uly="592" lrx="1645" lry="2394" xml:id="f06-l-c01-region" />
+      <zone type="column-position" ulx="1442" uly="592" lrx="1544" lry="2394" xml:id="f06-l-c02-region" />
+      <zone type="column-position" ulx="1341" uly="592" lrx="1442" lry="2394" xml:id="f06-l-c03-region" />
+      <zone type="column-position" ulx="1239" uly="592" lrx="1341" lry="2394" xml:id="f06-l-c04-region" />
+      <zone type="column-position" ulx="1138" uly="592" lrx="1239" lry="2394" xml:id="f06-l-c05-region" />
+      <zone type="column-position" ulx="1036" uly="592" lrx="1138" lry="2394" xml:id="f06-l-c06-region" />
+      <zone type="column-position" ulx="935" uly="592" lrx="1036" lry="2394" xml:id="f06-l-c07-region" />
+      <zone type="column-position" ulx="833" uly="592" lrx="935" lry="2394" xml:id="f06-l-c08-region" />
+      <zone type="column-position" ulx="732" uly="592" lrx="833" lry="2394" xml:id="f06-l-c09-region" />
+      <zone type="column-position" ulx="631" uly="592" lrx="732" lry="2394" xml:id="f06-l-c10-region" />
+      <zone type="column-position" ulx="529" uly="592" lrx="631" lry="2394" xml:id="f06-l-c11-region" />
+      <zone type="column-position" ulx="428" uly="592" lrx="529" lry="2394" xml:id="f06-l-c12-region" />
+      <zone type="column-position" ulx="326" uly="592" lrx="428" lry="2394" xml:id="f06-l-c13-region" />
+      <zone type="column-position" ulx="225" uly="592" lrx="326" lry="2394" xml:id="f06-l-c14-region" />
+    </surface>
+    <surface n="7" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143907100" xml:id="f07">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030143907100" type="source-image-viewer" />
+      <zone type="column-position" ulx="3161" uly="592" lrx="3261" lry="2399" xml:id="f07-r-c01-region" />
+      <zone type="column-position" ulx="3060" uly="592" lrx="3161" lry="2399" xml:id="f07-r-c02-region" />
+      <zone type="column-position" ulx="2959" uly="592" lrx="3060" lry="2399" xml:id="f07-r-c03-region" />
+      <zone type="column-position" ulx="2858" uly="592" lrx="2959" lry="2399" xml:id="f07-r-c04-region" />
+      <zone type="column-position" ulx="2758" uly="592" lrx="2858" lry="2399" xml:id="f07-r-c05-region" />
+      <zone type="column-position" ulx="2657" uly="592" lrx="2758" lry="2399" xml:id="f07-r-c06-region" />
+      <zone type="column-position" ulx="2556" uly="592" lrx="2657" lry="2399" xml:id="f07-r-c07-region" />
+      <zone type="column-position" ulx="2455" uly="592" lrx="2556" lry="2399" xml:id="f07-r-c08-region" />
+      <zone type="column-position" ulx="2354" uly="592" lrx="2455" lry="2399" xml:id="f07-r-c09-region" />
+      <zone type="column-position" ulx="2254" uly="592" lrx="2354" lry="2399" xml:id="f07-r-c10-region" />
+      <zone type="column-position" ulx="2153" uly="592" lrx="2254" lry="2399" xml:id="f07-r-c11-region" />
+      <zone type="column-position" ulx="2052" uly="592" lrx="2153" lry="2399" xml:id="f07-r-c12-region" />
+      <zone type="column-position" ulx="1951" uly="592" lrx="2052" lry="2399" xml:id="f07-r-c13-region" />
+      <zone type="column-position" ulx="1851" uly="592" lrx="1951" lry="2399" xml:id="f07-r-c14-region" />
+      <zone type="column-position" ulx="1535" uly="599" lrx="1636" lry="2397" xml:id="f07-l-c01-region" />
+      <zone type="column-position" ulx="1435" uly="599" lrx="1535" lry="2397" xml:id="f07-l-c02-region" />
+      <zone type="column-position" ulx="1335" uly="599" lrx="1435" lry="2397" xml:id="f07-l-c03-region" />
+      <zone type="column-position" ulx="1235" uly="599" lrx="1335" lry="2397" xml:id="f07-l-c04-region" />
+      <zone type="column-position" ulx="1134" uly="599" lrx="1235" lry="2397" xml:id="f07-l-c05-region" />
+      <zone type="column-position" ulx="1034" uly="599" lrx="1134" lry="2397" xml:id="f07-l-c06-region" />
+      <zone type="column-position" ulx="934" uly="599" lrx="1034" lry="2397" xml:id="f07-l-c07-region" />
+      <zone type="column-position" ulx="833" uly="599" lrx="934" lry="2397" xml:id="f07-l-c08-region" />
+      <zone type="column-position" ulx="733" uly="599" lrx="833" lry="2397" xml:id="f07-l-c09-region" />
+      <zone type="column-position" ulx="633" uly="599" lrx="733" lry="2397" xml:id="f07-l-c10-region" />
+      <zone type="column-position" ulx="533" uly="599" lrx="633" lry="2397" xml:id="f07-l-c11-region" />
+      <zone type="column-position" ulx="432" uly="599" lrx="533" lry="2397" xml:id="f07-l-c12-region" />
+      <zone type="column-position" ulx="332" uly="599" lrx="432" lry="2397" xml:id="f07-l-c13-region" />
+      <zone type="column-position" ulx="232" uly="599" lrx="332" lry="2397" xml:id="f07-l-c14-region" />
+    </surface>
+    <surface n="8" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030144011638" xml:id="f08">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030144011638" type="source-image-viewer" />
+      <zone type="column-position" ulx="3167" uly="597" lrx="3269" lry="2399" xml:id="f08-r-c01-region" />
+      <zone type="column-position" ulx="3065" uly="597" lrx="3167" lry="2399" xml:id="f08-r-c02-region" />
+      <zone type="column-position" ulx="2963" uly="597" lrx="3065" lry="2399" xml:id="f08-r-c03-region" />
+      <zone type="column-position" ulx="2861" uly="597" lrx="2963" lry="2399" xml:id="f08-r-c04-region" />
+      <zone type="column-position" ulx="2759" uly="597" lrx="2861" lry="2399" xml:id="f08-r-c05-region" />
+      <zone type="column-position" ulx="2657" uly="597" lrx="2759" lry="2399" xml:id="f08-r-c06-region" />
+      <zone type="column-position" ulx="2555" uly="597" lrx="2657" lry="2399" xml:id="f08-r-c07-region" />
+      <zone type="column-position" ulx="2453" uly="597" lrx="2555" lry="2399" xml:id="f08-r-c08-region" />
+      <zone type="column-position" ulx="2351" uly="597" lrx="2453" lry="2399" xml:id="f08-r-c09-region" />
+      <zone type="column-position" ulx="2249" uly="597" lrx="2351" lry="2399" xml:id="f08-r-c10-region" />
+      <zone type="column-position" ulx="2147" uly="597" lrx="2249" lry="2399" xml:id="f08-r-c11-region" />
+      <zone type="column-position" ulx="2045" uly="597" lrx="2147" lry="2399" xml:id="f08-r-c12-region" />
+      <zone type="column-position" ulx="1943" uly="597" lrx="2045" lry="2399" xml:id="f08-r-c13-region" />
+      <zone type="column-position" ulx="1841" uly="597" lrx="1943" lry="2399" xml:id="f08-r-c14-region" />
+      <zone type="column-position" ulx="1546" uly="589" lrx="1648" lry="2397" xml:id="f08-l-c01-region" />
+      <zone type="column-position" ulx="1445" uly="589" lrx="1546" lry="2397" xml:id="f08-l-c02-region" />
+      <zone type="column-position" ulx="1344" uly="589" lrx="1445" lry="2397" xml:id="f08-l-c03-region" />
+      <zone type="column-position" ulx="1243" uly="589" lrx="1344" lry="2397" xml:id="f08-l-c04-region" />
+      <zone type="column-position" ulx="1142" uly="589" lrx="1243" lry="2397" xml:id="f08-l-c05-region" />
+      <zone type="column-position" ulx="1041" uly="589" lrx="1142" lry="2397" xml:id="f08-l-c06-region" />
+      <zone type="column-position" ulx="940" uly="589" lrx="1041" lry="2397" xml:id="f08-l-c07-region" />
+      <zone type="column-position" ulx="839" uly="589" lrx="940" lry="2397" xml:id="f08-l-c08-region" />
+      <zone type="column-position" ulx="738" uly="589" lrx="839" lry="2397" xml:id="f08-l-c09-region" />
+      <zone type="column-position" ulx="636" uly="589" lrx="738" lry="2397" xml:id="f08-l-c10-region" />
+      <zone type="column-position" ulx="535" uly="589" lrx="636" lry="2397" xml:id="f08-l-c11-region" />
+      <zone type="column-position" ulx="434" uly="589" lrx="535" lry="2397" xml:id="f08-l-c12-region" />
+      <zone type="column-position" ulx="333" uly="589" lrx="434" lry="2397" xml:id="f08-l-c13-region" />
+      <zone type="column-position" ulx="232" uly="589" lrx="333" lry="2397" xml:id="f08-l-c14-region" />
+    </surface>
+    <surface n="9" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030144107361" xml:id="f09">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030144107361" type="source-image-viewer" />
+      <zone type="column-position" ulx="3174" uly="577" lrx="3276" lry="2399" xml:id="f09-r-c01-region" />
+      <zone type="column-position" ulx="3072" uly="577" lrx="3174" lry="2399" xml:id="f09-r-c02-region" />
+      <zone type="column-position" ulx="2969" uly="577" lrx="3072" lry="2399" xml:id="f09-r-c03-region" />
+      <zone type="column-position" ulx="2867" uly="577" lrx="2969" lry="2399" xml:id="f09-r-c04-region" />
+      <zone type="column-position" ulx="2765" uly="577" lrx="2867" lry="2399" xml:id="f09-r-c05-region" />
+      <zone type="column-position" ulx="2663" uly="577" lrx="2765" lry="2399" xml:id="f09-r-c06-region" />
+      <zone type="column-position" ulx="2561" uly="577" lrx="2663" lry="2399" xml:id="f09-r-c07-region" />
+      <zone type="column-position" ulx="2459" uly="577" lrx="2561" lry="2399" xml:id="f09-r-c08-region" />
+      <zone type="column-position" ulx="2357" uly="577" lrx="2459" lry="2399" xml:id="f09-r-c09-region" />
+      <zone type="column-position" ulx="2254" uly="577" lrx="2357" lry="2399" xml:id="f09-r-c10-region" />
+      <zone type="column-position" ulx="2152" uly="577" lrx="2254" lry="2399" xml:id="f09-r-c11-region" />
+      <zone type="column-position" ulx="2050" uly="577" lrx="2152" lry="2399" xml:id="f09-r-c12-region" />
+      <zone type="column-position" ulx="1948" uly="577" lrx="2050" lry="2399" xml:id="f09-r-c13-region" />
+      <zone type="column-position" ulx="1846" uly="577" lrx="1948" lry="2399" xml:id="f09-r-c14-region" />
+    </surface>
+    <surface n="10" corresp="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030144136611" xml:id="f10">
+      <graphic url="https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&amp;q=K2-3618_001&amp;id=20181030144136611" type="source-image-viewer" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="front-cover">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f01-s-c01">
+              <seg type="diplomatic-text">丁酉年護産廳小日記</seg>
+            </ab>
+            <ab type="page-feature" subtype="library-note">
+              <label>title</label>
+              <seg type="diplomatic-text" rend="unknown" />
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="diary">
+          <div type="page-face" n="right">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f02-l-c01" facs="#f02-l-c01-region">
+              <seg type="diplomatic-text">○光武元年丁酉九月二十五日辛亥晴吹西風亥初二刻十二分</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02" facs="#f02-l-c02-region">
+              <seg type="diplomatic-text">宮人嚴氏　誕生男阿只氏于慶運宮肅雍齋</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03" facs="#f02-l-c03-region">
+              <seg type="diplomatic-text">詔曰今日亥時宮人嚴氏生男護產等節依例舉行</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-l-c04" facs="#f02-l-c04-region">
+              <seg type="diplomatic-text">護產廳慶運宮肅雍齋為之護產官處所以　大殿長房為之　護產廳次知</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-l-c05" facs="#f02-l-c05-region">
+              <seg type="diplomatic-text">金圭復從事官崔錫斗　差下　護產官典醫朴準承崔錫祐　差下主事</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-l-c06" facs="#f02-l-c06-region">
+              <seg type="diplomatic-text">玄東完以別掌務官例　護產廳待令　差下事</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-l-c07" facs="#f02-l-c07-region">
+              <seg type="diplomatic-text">勅下</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-l-c08" facs="#f02-l-c08-region">
+              <seg type="diplomatic-text">都提調意</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f02-l-c09" facs="#f02-l-c09-region">
+              <seg type="diplomatic-text">奏曰湯藥雇員金龍煥劉浩榮待令醫女竹葉真香　差下何如</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f02-l-c10" facs="#f02-l-c10-region">
+              <seg type="diplomatic-text">允</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f02-l-c11" facs="#f02-l-c11-region">
+              <seg type="diplomatic-text">前郡守李海昌兼典醫　差下仍為小兒別入直事</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f02-l-c12" facs="#f02-l-c12-region">
+              <seg type="diplomatic-text">勅下</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f02-l-c13" facs="#f02-l-c13-region">
+              <seg type="diplomatic-text">醫官單子</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f02-l-c14" facs="#f02-l-c14-region">
+              <seg type="diplomatic-text">大　殿單子問　安　答曰知道</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="diary">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f03-r-c01" facs="#f03-r-c01-region">
+              <seg type="diplomatic-text">王大妃殿單子問　安　答曰知道</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-r-c02" facs="#f03-r-c02-region">
+              <seg type="diplomatic-text">太子宮單子問　安　答曰知道</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-r-c03" facs="#f03-r-c03-region">
+              <seg type="diplomatic-text">太子妃宮單子問　安　答曰知道</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-r-c04" facs="#f03-r-c04-region">
+              <seg type="diplomatic-text">水飛朱砂三分　入之</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-r-c05" facs="#f03-r-c05-region">
+              <seg type="diplomatic-text">○光武元年丁酉九月二十六日壬子晴吹西風辰時</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-r-c06" facs="#f03-r-c06-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-r-c07" facs="#f03-r-c07-region">
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏分娩後氣候連為平安以和飯藿湯三巡而新生阿只氏善</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-r-c08" facs="#f03-r-c08-region">
+              <seg type="diplomatic-text">為吮乳且放糞氣息安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f03-r-c09" facs="#f03-r-c09-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f03-r-c10" facs="#f03-r-c10-region">
+              <seg type="diplomatic-text">安胎次四耳白缸蓋具醫女竹葉真香待令故從事官捧入捲草入盛次四隅</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f03-r-c11" facs="#f03-r-c11-region">
+              <seg type="diplomatic-text">紅漆無蓋函　入之</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f03-r-c12" facs="#f03-r-c12-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f03-r-c13" facs="#f03-r-c13-region">
+              <seg type="diplomatic-text">奏胎缸安於月德丙方之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f03-r-c14" facs="#f03-r-c14-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f03-l-c01" facs="#f03-l-c01-region">
+              <seg type="diplomatic-text">草席次知與從事官奉出傳于護產官朴準承崔錫祐主事玄東完雇員金</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-l-c02" facs="#f03-l-c02-region">
+              <seg type="diplomatic-text">龍煥劉浩榮醫女竹葉真香懸草于維清門後退出　次知中使從</seg>
+              <note type="source-note" n="20">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">即產室肅雍</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">齋西中門</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-l-c03" facs="#f03-l-c03-region">
+              <seg type="diplomatic-text">事官本房供饋司鑰別監飯監閤監廳供饋　護產廳小兒待令主事醫女</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-l-c04" facs="#f03-l-c04-region">
+              <seg type="diplomatic-text">本房供饋雇員使令軍士閤監廳供饋</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-l-c05" facs="#f03-l-c05-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-l-c06" facs="#f03-l-c06-region">
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯一巡阿只氏善為吮乳眠睡連</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-l-c07" facs="#f03-l-c07-region">
+              <seg type="diplomatic-text">為安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-l-c08" facs="#f03-l-c08-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f03-l-c09" facs="#f03-l-c09-region">
+              <seg type="diplomatic-text">羌古道魚五箇醫女竹葉真香　入之從事官　捧入</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f03-l-c10" facs="#f03-l-c10-region">
+              <seg type="diplomatic-text">護產廳書　申時</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f03-l-c11" facs="#f03-l-c11-region">
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏諸節一向平安喫和飯藿湯三巡阿只氏善為吮乳眠</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f03-l-c12" facs="#f03-l-c12-region">
+              <seg type="diplomatic-text">睡連穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f03-l-c13" facs="#f03-l-c13-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f03-l-c14" facs="#f03-l-c14-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="diary">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f04-r-c01" facs="#f04-r-c01-region">
+              <seg type="diplomatic-text">奏明日乃是宮人嚴氏分娩後第三日也洗浴吉時令日官推擇則宮人嚴氏</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-r-c02" facs="#f04-r-c02-region">
+              <seg type="diplomatic-text">洗浴吉時今月二十七日巳時阿只氏洗浴吉時同日申時洗胎吉時同日卯</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-r-c03" facs="#f04-r-c03-region">
+              <seg type="diplomatic-text">時為吉云洗胎水當取月德丙方水用之矣竊伏念當此洗胎日氣稍寒恐</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-r-c04" facs="#f04-r-c04-region">
+              <seg type="diplomatic-text">不無勞動感傷之慮似當十分謹慎而阿只氏洗浴尤不可無致慮但用手巾</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-r-c05" facs="#f04-r-c05-region">
+              <seg type="diplomatic-text">蘸水略略拭過而洗浴湯煎次丙方水三東海明日早朝自內出給之意詮次</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-r-c06" facs="#f04-r-c06-region">
+              <seg type="diplomatic-text">書　奏</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-r-c07" facs="#f04-r-c07-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-r-c08" facs="#f04-r-c08-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f04-r-c09" facs="#f04-r-c09-region">
+              <seg type="diplomatic-text">奏洗胎水取月德丙方令醫女洗百度後以酒更洗古銅錢一箇以字面先入內胎缸棺</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f04-r-c10" facs="#f04-r-c10-region">
+              <seg type="diplomatic-text">中次入洗胎以油紙藍綿紬覆缸口以紅纓子結封自　內封標覆缸蓋以紅纓子</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f04-r-c11" facs="#f04-r-c11-region">
+              <seg type="diplomatic-text">貫缸四耳及蓋丁四穴自　內封標出送則　等與次知內官眼同依例舉行之意</seg>
+              <note type="source-note" n="17">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">臣</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="12" xml:id="f04-r-c12" facs="#f04-r-c12-region">
+              <seg type="diplomatic-text">詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f04-r-c13" facs="#f04-r-c13-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f04-r-c14" facs="#f04-r-c14-region">
+              <seg type="diplomatic-text">○光武元年丁酉九月二十七日癸丑晴吹西風辰時</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01" facs="#f04-l-c01-region">
+              <seg type="diplomatic-text">洗胎次月德丙方水于正汲取時仁化門請留排黻四坐于肅雍齋北庭</seg>
+              <note type="source-note" n="28">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">或有</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02" facs="#f04-l-c02-region">
+              <seg type="diplomatic-text" />
+              <note type="source-note" n="unknown">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">齋前</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">庭</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03" facs="#f04-l-c03-region">
+              <seg type="diplomatic-text">洗胎時卯正初刻自禁漏奏時後</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04" facs="#f04-l-c04-region">
+              <seg type="diplomatic-text">護產官主事以黑團領率員役入就肅雍齋後庭與次知從事官序立醫女</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05" facs="#f04-l-c05-region">
+              <seg type="diplomatic-text">竹葉真香奉出胎缸移盛于陶所羅注丙方水洗之洗胎水移盛另排罐內</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06" facs="#f04-l-c06-region">
+              <seg type="diplomatic-text">洗百度後以香醞酒更洗而古銅錢一箇　以字面先入白缸底中央仍</seg>
+              <note type="source-note" n="16">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">開元</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">通寶</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07" facs="#f04-l-c07-region">
+              <seg type="diplomatic-text">入洗胎以油紙藍綿紬覆缸口以紅纓子結封自　內封標後覆缸蓋以紅</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08" facs="#f04-l-c08-region">
+              <seg type="diplomatic-text">纓子貫缸四耳及蓋丁四穴結封自　內封標出送後先於外白缸底藉以</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f04-l-c09" facs="#f04-l-c09-region">
+              <seg type="diplomatic-text">白綿花以白缸入於外白缸中以白綿花堅補齊缸口以草注紙覆綿花上</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f04-l-c10" facs="#f04-l-c10-region">
+              <seg type="diplomatic-text">堅補勿動又以白綿花厚覆紙上甘糖作泥如缸口圓切比缸口四面剰一</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f04-l-c11" facs="#f04-l-c11-region">
+              <seg type="diplomatic-text">指許焙於火上待其柔和覆缸蓋以紅纓子貫缸四耳及蓋丁四穴二甲結</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f04-l-c12" facs="#f04-l-c12-region">
+              <seg type="diplomatic-text">封書次知中官姓　護產醫官姓姓名而并着署懸紅木牌於蓋丁上前面以護</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f04-l-c13" facs="#f04-l-c13-region">
+              <seg type="diplomatic-text">行書　光武元年九月二十五日</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f04-l-c14" facs="#f04-l-c14-region">
+              <seg type="diplomatic-text">宮人嚴氏順生男阿只氏胎後面列書次知內官姓名護產醫官姓名後四</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="diary">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01" facs="#f05-r-c01-region">
+              <seg type="diplomatic-text">耳陶豆毛中舖常毛種一立以胎缸入陶豆毛內四面堅補而又以常毛種</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02" facs="#f05-r-c02-region">
+              <seg type="diplomatic-text">覆之後覆蓋以紅纓子貫豆毛四耳及蓋丁四穴十字結封書謹封次知內</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03" facs="#f05-r-c03-region">
+              <seg type="diplomatic-text">官着署醫女奉納于　內次知從事官奉納于產室安于月德丙方</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04" facs="#f05-r-c04-region">
+              <seg type="diplomatic-text">洗胎水棄汲於月空生方內用器皿等物從事率納于本房</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05" facs="#f05-r-c05-region">
+              <seg type="diplomatic-text">護產廳書　辰時</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06" facs="#f05-r-c06-region">
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏夜來氣候平安喫和飯藿湯二巡而阿只氏善為吮乳</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07" facs="#f05-r-c07-region">
+              <seg type="diplomatic-text">大小便調順眠睡亦安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-r-c08" facs="#f05-r-c08-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-r-c09" facs="#f05-r-c09-region">
+              <seg type="diplomatic-text">洗浴水三東海自內出</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f05-r-c10" facs="#f05-r-c10-region">
+              <seg type="diplomatic-text">洗浴次陳艾湯水一鍮東海手巾次白正布白苧布各三尺陳艾二編入之</seg>
+              <note type="source-note" n="29">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">洗浴</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="11" xml:id="f05-r-c11" facs="#f05-r-c11-region">
+              <seg type="diplomatic-text">從事官　捧入</seg>
+              <note type="source-note" n="unknown">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">吉時自漏局入之</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">正時巳時</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="12" xml:id="f05-r-c12" facs="#f05-r-c12-region">
+              <seg type="diplomatic-text">護產廳書　午時</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f05-r-c13" facs="#f05-r-c13-region">
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏氣候平安而阿只氏善為吮乳眠睡一樣安穩之意詮</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f05-r-c14" facs="#f05-r-c14-region">
+              <seg type="diplomatic-text">次書　奏</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01" facs="#f05-l-c01-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02" facs="#f05-l-c02-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03" facs="#f05-l-c03-region">
+              <seg type="diplomatic-text">奏阿只氏臍帶解脫即為付貼次雲母膏一鍾子及藍綿一尺封入之意詮次書</seg>
+              <note type="source-note" n="unknown">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">細</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04" facs="#f05-l-c04-region">
+              <seg type="diplomatic-text">奏</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05" facs="#f05-l-c05-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06" facs="#f05-l-c06-region">
+              <seg type="diplomatic-text">阿只氏洗浴次李根桃根梅根煎水席頭骨煎水和豬膽汁一鍮大也入之從</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07" facs="#f05-l-c07-region">
+              <seg type="diplomatic-text">事官　捧入</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-l-c08" facs="#f05-l-c08-region">
+              <seg type="diplomatic-text">護產廳書　申時</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-l-c09" facs="#f05-l-c09-region">
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯二巡阿只氏善為吮乳洗</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f05-l-c10" facs="#f05-l-c10-region">
+              <seg type="diplomatic-text">浴亦為安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f05-l-c11" facs="#f05-l-c11-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f05-l-c12" facs="#f05-l-c12-region">
+              <seg type="diplomatic-text">傳緩次塊石雄黃塊鏡面各一兩重主事玄東完　入之捧入</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f05-l-c13" facs="#f05-l-c13-region">
+              <seg type="diplomatic-text">同日酉時</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f05-l-c14" facs="#f05-l-c14-region">
+              <seg type="diplomatic-text">詔曰宮人嚴氏貴人封爵</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="diary">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01" facs="#f06-r-c01-region">
+              <seg type="diplomatic-text">護產廳次知從事官護產官小兒醫主事及雇員醫女使令軍士并</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02" facs="#f06-r-c02-region">
+              <seg type="diplomatic-text">賜饋</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03" facs="#f06-r-c03-region">
+              <seg type="diplomatic-text">○光武元年丁酉九月二十八日甲寅曉雨辰時</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04" facs="#f06-r-c04-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05" facs="#f06-r-c05-region">
+              <seg type="diplomatic-text">奏醫女言內貴人嚴氏夜來氣候平安喫和飯藿湯二巡阿只氏善為吮乳大</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-r-c06" facs="#f06-r-c06-region">
+              <seg type="diplomatic-text">小便調順眠睡亦為安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-r-c07" facs="#f06-r-c07-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-r-c08" facs="#f06-r-c08-region">
+              <seg type="diplomatic-text">護產廳書　午時</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f06-r-c09" facs="#f06-r-c09-region">
+              <seg type="diplomatic-text">奏醫女言內貴人氣候與朝一樣平安阿只氏善為吮乳眠睡亦為安穩之意</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f06-r-c10" facs="#f06-r-c10-region">
+              <seg type="diplomatic-text">詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f06-r-c11" facs="#f06-r-c11-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f06-r-c12" facs="#f06-r-c12-region">
+              <seg type="diplomatic-text">當日書　奏書貴人姓氏更考前例　稟定不書姓氏</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f06-r-c13" facs="#f06-r-c13-region">
+              <seg type="diplomatic-text">護產廳書　申時</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f06-r-c14" facs="#f06-r-c14-region">
+              <seg type="diplomatic-text">奏醫女言內貴人氣候平安喫和飯藿湯一巡阿只氏吮乳眠睡亦為安穩之意詮</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01" facs="#f06-l-c01-region">
+              <seg type="diplomatic-text">次書　奏</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02" facs="#f06-l-c02-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03" facs="#f06-l-c03-region">
+              <seg type="diplomatic-text">○光武元年丁酉九月二十九日乙卯晴吹西風辰時</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04" facs="#f06-l-c04-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05" facs="#f06-l-c05-region">
+              <seg type="diplomatic-text">奏醫女言內貴人氣候夜來一向平安喫和飯藿湯一巡而阿只氏善為吮乳</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-l-c06" facs="#f06-l-c06-region">
+              <seg type="diplomatic-text">大小便調順眠睡亦為安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-l-c07" facs="#f06-l-c07-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-l-c08" facs="#f06-l-c08-region">
+              <seg type="diplomatic-text">護產廳書　午時</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f06-l-c09" facs="#f06-l-c09-region">
+              <seg type="diplomatic-text">奏醫女言內貴人氣候平安喫和飯藿湯一巡而阿只氏善為吮乳而二次大便</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f06-l-c10" facs="#f06-l-c10-region">
+              <seg type="diplomatic-text">一次小便眠睡亦為安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f06-l-c11" facs="#f06-l-c11-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f06-l-c12" facs="#f06-l-c12-region">
+              <seg type="diplomatic-text">護產廳書　申時</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f06-l-c13" facs="#f06-l-c13-region">
+              <seg type="diplomatic-text">奏醫女言內貴人氣候一向喫和飯藿湯一巡阿只氏三次吮乳一次大便眠睡亦</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f06-l-c14" facs="#f06-l-c14-region">
+              <seg type="diplomatic-text">為安穩之意詮次書　奏</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="diary">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f07-r-c01" facs="#f07-r-c01-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-r-c02" facs="#f07-r-c02-region">
+              <seg type="diplomatic-text">安神丸一劑牛黃膏一劑有製　入之例今番則何以為之事微　稟</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-r-c03" facs="#f07-r-c03-region">
+              <seg type="diplomatic-text">依例製　入</seg>
+              <note type="source-note" n="unknown">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">朱黃麝三種</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-r-c04" facs="#f07-r-c04-region">
+              <seg type="diplomatic-text">內下事奉</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-r-c05" facs="#f07-r-c05-region">
+              <seg type="diplomatic-text">勅</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-r-c06" facs="#f07-r-c06-region">
+              <seg type="diplomatic-text">未時童阿只氏臍帶脫下後古例有雲母膏付貼然今番則只以雪綿子緊</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-r-c07" facs="#f07-r-c07-region">
+              <seg type="diplomatic-text">貼之意微　稟</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-r-c08" facs="#f07-r-c08-region">
+              <seg type="diplomatic-text">次知中使　聽令</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f07-r-c09" facs="#f07-r-c09-region">
+              <seg type="diplomatic-text">貴人有微滯感服查陳湯二貼</seg>
+              <note type="source-note" n="12">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">下人聽煎供</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="10" xml:id="f07-r-c10" facs="#f07-r-c10-region">
+              <seg type="diplomatic-text">次知從事官護產官小兒醫主事及雇員醫女使令軍士并</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f07-r-c11" facs="#f07-r-c11-region">
+              <seg type="diplomatic-text">賜饋</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f07-r-c12" facs="#f07-r-c12-region">
+              <seg type="diplomatic-text">○光武元年丁酉九月三十日丙辰晴吹西風辰時</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f07-r-c13" facs="#f07-r-c13-region">
+              <seg type="diplomatic-text">護產廳書</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f07-r-c14" facs="#f07-r-c14-region">
+              <seg type="diplomatic-text">奏醫女言內貴人氣候夜來平安阿只氏善為吮乳大小便調順眠睡亦為安穩之意</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f07-l-c01" facs="#f07-l-c01-region">
+              <seg type="diplomatic-text">詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-l-c02" facs="#f07-l-c02-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-l-c03" facs="#f07-l-c03-region">
+              <seg type="diplomatic-text">護產廳書　午時</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-l-c04" facs="#f07-l-c04-region">
+              <seg type="diplomatic-text">奏醫女言內貴人氣候與朝一樣喫和飯藿湯二巡而阿只氏善為吮乳大小便</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-l-c05" facs="#f07-l-c05-region">
+              <seg type="diplomatic-text">調順眠睡亦安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-l-c06" facs="#f07-l-c06-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-l-c07" facs="#f07-l-c07-region">
+              <seg type="diplomatic-text">護產廳書　申時</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-l-c08" facs="#f07-l-c08-region">
+              <seg type="diplomatic-text">奏醫女言內貴人氣候一向阿只氏善為吮乳眠睡亦為安穩之意詮次書　奏</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f07-l-c09" facs="#f07-l-c09-region">
+              <seg type="diplomatic-text">答曰知道</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f07-l-c10" facs="#f07-l-c10-region">
+              <seg type="diplomatic-text">○光武元年丁酉十月初一日丁巳晴</seg>
+              <note type="source-note" n="15">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">即一七日也辰時</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="11" xml:id="f07-l-c11" facs="#f07-l-c11-region">
+              <seg type="diplomatic-text">捲草祭物</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f07-l-c12" facs="#f07-l-c12-region">
+              <seg type="diplomatic-text">命正銀八十兩命紬十疋命紬十疋命紬黃絲十斤命白米一百斗分十帒</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f07-l-c13" facs="#f07-l-c13-region">
+              <seg type="diplomatic-text" />
+              <note type="source-note" n="unknown">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">本院</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">舉行</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="14" xml:id="f07-l-c14" facs="#f07-l-c14-region">
+              <seg type="diplomatic-text">排設所用</seg>
+              <note type="source-note" n="4">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">捲草時</seg>
+                </seg>
+              </note>
+            </ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="diary">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f08-r-c01" facs="#f08-r-c01-region">
+              <seg type="diplomatic-text">塗朱兩木二坐塗朱大板子五立香案一坐高足床畫邊油紙六張四兩黃</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-r-c02" facs="#f08-r-c02-region">
+              <seg type="diplomatic-text">燭一雙鍮大燭臺一雙鍮香爐一坐鍮香盒一坐鍮火爐一坐鍮大也一坐火</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-r-c03" facs="#f08-r-c03-region">
+              <seg type="diplomatic-text">箸一部沈香捲草入盛全漆函一坐白紋九張付地衣一浮拜席二立</seg>
+              <note type="source-note" n="27">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">本院舉行</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-r-c04" facs="#f08-r-c04-region">
+              <seg type="diplomatic-text">捲草封裹所用</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-r-c05" facs="#f08-r-c05-region">
+              <seg type="diplomatic-text">捲草初裹次白苧帒　再裹次紅紬長三尺二幅袱　函外裹次紅紬六幅袱</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-r-c06" facs="#f08-r-c06-region">
+              <seg type="diplomatic-text">封裹次紅鄕縷三甲所　負函次紅綿縷三甲所　封裹後覆函次紅紬五幅袱</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-r-c07" facs="#f08-r-c07-region">
+              <seg type="diplomatic-text">紅木牌　葉紙硯筆墨</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-r-c08" facs="#f08-r-c08-region">
+              <seg type="diplomatic-text">捲草行禮于肅雍齋大廳排設舉行而獻官朴準承為之行祭後捲草函護</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f08-r-c09" facs="#f08-r-c09-region">
+              <seg type="diplomatic-text">產廳使令以支機負奉陪　進于內資時行路諸般舉行自外為之門路以</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f08-r-c10" facs="#f08-r-c10-region">
+              <seg type="diplomatic-text">錫類門宣陽門南新建門木柵門為之</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f08-r-c11" facs="#f08-r-c11-region">
+              <seg type="diplomatic-text">藏胎次進發時</seg>
+              <note type="source-note" n="6">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">同日午時</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="12" xml:id="f08-r-c12" facs="#f08-r-c12-region">
+              <seg type="diplomatic-text">安胎中使金圭復從事官崔錫斗清道警務官貳員奏時官一員相土官</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f08-r-c13" facs="#f08-r-c13-region">
+              <seg type="diplomatic-text">一員別監一人看役書員二人陪胎書員一人武監六人奉　胎缸安于函盛于</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f08-r-c14" facs="#f08-r-c14-region">
+              <seg type="diplomatic-text">樓子擔持軍四名　沙炬六柄　奉炬軍六名奉樓子軍四名扶擔</seg>
+              <note type="source-note" n="7">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">主殿司</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">舉行</seg>
+                </seg>
+              </note>
+              <note type="source-note" n="12">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">會計院</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">舉行</seg>
+                </seg>
+              </note>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f08-l-c01" facs="#f08-l-c01-region">
+              <seg type="diplomatic-text">軍二名　內吹六名依例舉行今番則進而不依進發程路自錫類門宣</seg>
+              <note type="source-note" n="3">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">侍從院</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">舉行</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-l-c02" facs="#f08-l-c02-region">
+              <seg type="diplomatic-text">陽門新建木柵門銀行所前路貞洞明禮宮前路紛帥洞黃土峴惠政橋把子廛</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-l-c03" facs="#f08-l-c03-region">
+              <seg type="diplomatic-text">石橋敦化門前路金虎門進善門肅章門建陽門銅龍門景化門集禮門崇</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-l-c04" facs="#f08-l-c04-region">
+              <seg type="diplomatic-text">智門明光門青陽門金馬門演慶堂前路詣凌虛亭藏胎于凌虛亭南麓子</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-l-c05" facs="#f08-l-c05-region">
+              <seg type="diplomatic-text">坐</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-l-c06" facs="#f08-l-c06-region">
+              <seg type="diplomatic-text">美飯分排　羹一盒飯一盒</seg>
+              <note type="source-note" n="4">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">同日</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-l-c07" facs="#f08-l-c07-region">
+              <seg type="diplomatic-text">護產官</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-l-c08" facs="#f08-l-c08-region">
+              <seg type="diplomatic-text">護產廳雇員</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f08-l-c09" facs="#f08-l-c09-region">
+              <seg type="diplomatic-text">護產廳醫女</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f08-l-c10" facs="#f08-l-c10-region">
+              <seg type="diplomatic-text">護產廳使令</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f08-l-c11" facs="#f08-l-c11-region">
+              <seg type="diplomatic-text">護產廳軍士</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f08-l-c12" facs="#f08-l-c12-region">
+              <seg type="diplomatic-text">護產廳以下</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f08-l-c13" facs="#f08-l-c13-region">
+              <seg type="diplomatic-text">十月十五日即三七日也其時羹飯與米藿分排</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f08-l-c14" facs="#f08-l-c14-region">
+              <seg type="diplomatic-text">醫官廳以下</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="diary">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f09-r-c01" facs="#f09-r-c01-region">
+              <seg type="diplomatic-text">護產官二員</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-r-c02" facs="#f09-r-c02-region">
+              <seg type="diplomatic-text">小兒醫一員</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-r-c03" facs="#f09-r-c03-region">
+              <seg type="diplomatic-text">以上各羹飯一盒</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-r-c04" facs="#f09-r-c04-region">
+              <seg type="diplomatic-text">藏胎後別單　賞格</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-r-c05" facs="#f09-r-c05-region">
+              <seg type="diplomatic-text">次知金圭復熟馬一匹　面給從事官崔錫斗白木二疋　賜給次知房使令二名房</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-r-c06" facs="#f09-r-c06-region">
+              <seg type="diplomatic-text">直一名飯工一名水工二名各布一疋　賜給從事官房使令二名房直一名飯工</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-r-c07" facs="#f09-r-c07-region">
+              <seg type="diplomatic-text">一名水工一名各布一疋　賜給司鑰一人別監二人各白木一疋木一疋水工一</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-r-c08" facs="#f09-r-c08-region">
+              <seg type="diplomatic-text">名布一疋飯監一人員役二人各白木一疋木一疋飯工一名布一疋　賜給</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f09-r-c09" facs="#f09-r-c09-region">
+              <seg type="diplomatic-text">護產官朴準承崔錫祐各熟馬　面給別入直李海昌主事玄東完各綿紬</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f09-r-c10" facs="#f09-r-c10-region">
+              <seg type="diplomatic-text">一疋白木一疋　賜給</seg>
+            </ab>
+            <ab type="column" n="11" xml:id="f09-r-c11" facs="#f09-r-c11-region">
+              <seg type="diplomatic-text">捲草官朴準承花方紬一疋綿紬一疋雇員金龍煥劉浩榮各白木一疋官木</seg>
+            </ab>
+            <ab type="column" n="12" xml:id="f09-r-c12" facs="#f09-r-c12-region">
+              <seg type="diplomatic-text">一疋待令雇員朴胤錫趙衡鎮池殷錫各木一疋醫女竹葉真香各綿紬一</seg>
+            </ab>
+            <ab type="column" n="13" xml:id="f09-r-c13" facs="#f09-r-c13-region">
+              <seg type="diplomatic-text">疋木一疋木一疋　賜給抄奴金永順使令趙元俊成福龍各木一疋待令使令二</seg>
+            </ab>
+            <ab type="column" n="14" xml:id="f09-r-c14" facs="#f09-r-c14-region">
+              <seg type="diplomatic-text">名軍士英到基永待令軍士三名童便軍士二名各布一疋　賜給</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="page-feature" subtype="library-note">
+              <label>空葉下緣</label>
+              <seg type="diplomatic-text" rend="unknown" />
+            </ab>
+          </div>
+        </div>
+        <pb n="10" facs="#f10" />
+        <div n="10" type="scan" subtype="back-cover">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

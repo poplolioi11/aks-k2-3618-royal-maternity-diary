@@ -1,0 +1,83 @@
+{
+  "historical_author": "護産廳",
+  "source_identity": "韓國學中央研究院藏書閣 K2-3618，MF35-1645",
+  "source": "https://jsg.aks.ac.kr/dir/view?dataId=JSG_K2-3618",
+  "source_image_viewer": "https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-3618%7C001",
+  "source_rights_policy": "https://jsg.aks.ac.kr/etc/guide",
+  "dataset_version": "0.1.0",
+  "scan_count": 10,
+  "content_scan_count": 8,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143548699",
+      "label": "001",
+      "sha256": "8943a0fb0c763df624a79fd5169635943477c0b2ec58f875881fd25813f5cf1a",
+      "content_role": "front-cover"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137",
+      "label": "002",
+      "sha256": "b290ff36ba1ea433f2c8d3a7d3a1dcd960bc79d6ec678c9ecc97fe4dcf100de6",
+      "content_role": "diary"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "label": "003",
+      "sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "content_role": "diary"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820",
+      "label": "004",
+      "sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "content_role": "diary"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782",
+      "label": "005",
+      "sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "content_role": "diary"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383",
+      "label": "006",
+      "sha256": "cd15b045257a29cb8d628da8f12884c2ed0499a57a0fa2d84d53e6cffc23b273",
+      "content_role": "diary"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100",
+      "label": "007",
+      "sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "content_role": "diary"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "label": "008",
+      "sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "content_role": "diary"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144107361",
+      "label": "009",
+      "sha256": "e6ea3da6db1e5b0f31a136d268964068ccc08ac6cbadfdfd03bfa638bf04d843",
+      "content_role": "diary"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144136611",
+      "label": "010",
+      "sha256": "61671a71a964d2a861aaa12bdec6e43444a79e462e352ecfa93f50a8fa8b2a19",
+      "content_role": "back-cover"
+    }
+  ]
+}

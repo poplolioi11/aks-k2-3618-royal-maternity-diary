@@ -1,0 +1,3346 @@
+{
+  "metadata": {
+    "title": "護産廳小日記",
+    "roman_title": "Hosan-cheong so ilgi [Daily Records of the Royal Maternity Directorate for Consort Eom]",
+    "source_title_forms": [
+      "丁酉年護産廳小日記",
+      "護産廳小日記",
+      "호산청 소일기"
+    ],
+    "author": "護産廳",
+    "date": "光武元年丁酉（1897），原文起陰曆九月二十五日，逐日記至十月初一日，另存十月十五日預定安排。",
+    "location": "漢城慶運宮（今首爾）",
+    "repository": "韓國學中央研究院藏書閣",
+    "collection": "藏書閣王室古書",
+    "shelfmark": "K2-3618",
+    "language": "lzh",
+    "languages": [
+      "lzh",
+      "en"
+    ],
+    "image_system": "catalogue",
+    "catalogue": "https://jsg.aks.ac.kr/dir/view?dataId=JSG_K2-3618",
+    "rights": "https://jsg.aks.ac.kr/etc/guide",
+    "description": "《護産廳小日記》是1897年漢城慶運宮護産廳所編漢文日記，記宮人嚴氏及新生兒的產後照護。七天內分時記載母親的氣候、飲食、嬰兒哺乳、睡眠及排泄，另記承辦醫官、醫女、宮廷傳報、沐浴、儀節及賞給。底本為韓國學中央研究院藏書閣 K2-3618。",
+    "txt_reader_statement": "全冊10幅館方照片逐幅追溯。日記自第002幅左面至第009幅右面，雙面先右後左，每面14道印界。小字行分層，館籤及後封循館方影像對照；全形空格代表所見闕格或字間留白，□為待定字。",
+    "tei_editorial_statement": "原列依畫面順序編碼，雙面右後左，正文、同欄小字與館藏後層分記。館方影像為 Deep Zoom；原幅校對依公開閱覽路徑。估計欄界採公開影像第12層的畫素座標。小字位置若未能定位至原文確切字後，保留位置說明與所在主欄。",
+    "record_id": "AKSK23618",
+    "manifest_url": "https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-3618%7C001",
+    "image_viewer_sha256": "cefe7afaf7b78951a70c45f2412002e63e546876b6f5c7cbd600386246836681",
+    "catalogue_canvas_count": 10,
+    "catalogue_main_scope": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edition": "0.1.0",
+    "diary_boundary": [
+      "f002L",
+      "f009R"
+    ],
+    "coordinate_system": "top-left level-12 Deep Zoom raster pixels; approximate printed ruling bins",
+    "version": "0.1.0",
+    "dataset_title": "護産廳小日記（1897年，韓國學中央研究院藏書閣 K2-3618） / Hosan-cheong so ilgi [Daily Records of the Royal Maternity Directorate for Consort Eom]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "file": "001.png",
+      "label": "001",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143548699",
+      "content_role": "front-cover",
+      "sha256": "8943a0fb0c763df624a79fd5169635943477c0b2ec58f875881fd25813f5cf1a",
+      "descriptor_sha256": "50a2942f45dca4faf6314b86f12a3258b2fe25fe4f9bbd2cec0378e7e21ed506",
+      "tile_level": 12,
+      "native_width": 3011,
+      "native_height": 2899,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143548699.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143548699",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "丁酉年護産廳小日記"
+            }
+          ],
+          "extras": [
+            {
+              "type": "library-note",
+              "location": "title",
+              "text": "",
+              "note": "封面下三張現代館籤，直接連館圖。冷藏原件後層，未併入原題。",
+              "source_feature": "001F-p01"
+            }
+          ],
+          "has_text": true
+        }
+      ],
+      "facsimile_regions": []
+    },
+    {
+      "image": 2,
+      "file": "002.png",
+      "label": "002",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137",
+      "content_role": "diary",
+      "sha256": "b290ff36ba1ea433f2c8d3a7d3a1dcd960bc79d6ec678c9ecc97fe4dcf100de6",
+      "descriptor_sha256": "ce5fe3e463a592795f9ef566d74c108a807bac472c2539d48fd24a470fae9bd2",
+      "tile_level": 12,
+      "native_width": 3503,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143608137.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [],
+          "has_text": false
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "○光武元年丁酉九月二十五日辛亥晴吹西風亥初二刻十二分",
+              "facs": "f02-l-c01-region"
+            },
+            {
+              "text": "宮人嚴氏　誕生男阿只氏于慶運宮肅雍齋",
+              "facs": "f02-l-c02-region"
+            },
+            {
+              "text": "詔曰今日亥時宮人嚴氏生男護產等節依例舉行",
+              "facs": "f02-l-c03-region"
+            },
+            {
+              "text": "護產廳慶運宮肅雍齋為之護產官處所以　大殿長房為之　護產廳次知",
+              "facs": "f02-l-c04-region"
+            },
+            {
+              "text": "金圭復從事官崔錫斗　差下　護產官典醫朴準承崔錫祐　差下主事",
+              "facs": "f02-l-c05-region"
+            },
+            {
+              "text": "玄東完以別掌務官例　護產廳待令　差下事",
+              "facs": "f02-l-c06-region"
+            },
+            {
+              "text": "勅下",
+              "facs": "f02-l-c07-region"
+            },
+            {
+              "text": "都提調意",
+              "facs": "f02-l-c08-region"
+            },
+            {
+              "text": "奏曰湯藥雇員金龍煥劉浩榮待令醫女竹葉真香　差下何如",
+              "facs": "f02-l-c09-region"
+            },
+            {
+              "text": "允",
+              "facs": "f02-l-c10-region"
+            },
+            {
+              "text": "前郡守李海昌兼典醫　差下仍為小兒別入直事",
+              "facs": "f02-l-c11-region"
+            },
+            {
+              "text": "勅下",
+              "facs": "f02-l-c12-region"
+            },
+            {
+              "text": "醫官單子",
+              "facs": "f02-l-c13-region"
+            },
+            {
+              "text": "大　殿單子問　安　答曰知道",
+              "facs": "f02-l-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f02-l-c01-region",
+          "type": "column-position",
+          "bbox": [
+            1526,
+            594,
+            1628,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c02-region",
+          "type": "column-position",
+          "bbox": [
+            1424,
+            594,
+            1526,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c03-region",
+          "type": "column-position",
+          "bbox": [
+            1322,
+            594,
+            1424,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c04-region",
+          "type": "column-position",
+          "bbox": [
+            1220,
+            594,
+            1322,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c05-region",
+          "type": "column-position",
+          "bbox": [
+            1118,
+            594,
+            1220,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c06-region",
+          "type": "column-position",
+          "bbox": [
+            1015,
+            594,
+            1118,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c07-region",
+          "type": "column-position",
+          "bbox": [
+            913,
+            594,
+            1015,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c08-region",
+          "type": "column-position",
+          "bbox": [
+            811,
+            594,
+            913,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c09-region",
+          "type": "column-position",
+          "bbox": [
+            709,
+            594,
+            811,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c10-region",
+          "type": "column-position",
+          "bbox": [
+            607,
+            594,
+            709,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c11-region",
+          "type": "column-position",
+          "bbox": [
+            505,
+            594,
+            607,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c12-region",
+          "type": "column-position",
+          "bbox": [
+            402,
+            594,
+            505,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c13-region",
+          "type": "column-position",
+          "bbox": [
+            300,
+            594,
+            402,
+            2413
+          ]
+        },
+        {
+          "id": "f02-l-c14-region",
+          "type": "column-position",
+          "bbox": [
+            198,
+            594,
+            300,
+            2413
+          ]
+        }
+      ]
+    },
+    {
+      "image": 3,
+      "file": "003.png",
+      "label": "003",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "content_role": "diary",
+      "sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "descriptor_sha256": "ce5fe3e463a592795f9ef566d74c108a807bac472c2539d48fd24a470fae9bd2",
+      "tile_level": 12,
+      "native_width": 3503,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143631131.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "王大妃殿單子問　安　答曰知道",
+              "facs": "f03-r-c01-region"
+            },
+            {
+              "text": "太子宮單子問　安　答曰知道",
+              "facs": "f03-r-c02-region"
+            },
+            {
+              "text": "太子妃宮單子問　安　答曰知道",
+              "facs": "f03-r-c03-region"
+            },
+            {
+              "text": "水飛朱砂三分　入之",
+              "facs": "f03-r-c04-region"
+            },
+            {
+              "text": "○光武元年丁酉九月二十六日壬子晴吹西風辰時",
+              "facs": "f03-r-c05-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f03-r-c06-region"
+            },
+            {
+              "text": "奏醫女言內宮人嚴氏分娩後氣候連為平安以和飯藿湯三巡而新生阿只氏善",
+              "facs": "f03-r-c07-region"
+            },
+            {
+              "text": "為吮乳且放糞氣息安穩之意詮次書　奏",
+              "facs": "f03-r-c08-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f03-r-c09-region"
+            },
+            {
+              "text": "安胎次四耳白缸蓋具醫女竹葉真香待令故從事官捧入捲草入盛次四隅",
+              "facs": "f03-r-c10-region"
+            },
+            {
+              "text": "紅漆無蓋函　入之",
+              "facs": "f03-r-c11-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f03-r-c12-region"
+            },
+            {
+              "text": "奏胎缸安於月德丙方之意詮次書　奏",
+              "facs": "f03-r-c13-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f03-r-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "草席次知與從事官奉出傳于護產官朴準承崔錫祐主事玄東完雇員金",
+              "facs": "f03-l-c01-region"
+            },
+            {
+              "text": "龍煥劉浩榮醫女竹葉真香懸草于維清門後退出　次知中使從",
+              "notes": [
+                {
+                  "after": 20,
+                  "lines": [
+                    "即產室肅雍",
+                    "齋西中門"
+                  ],
+                  "source_feature": "003L-c02-n01",
+                  "position_note": "退出後",
+                  "editorial_note": "左右兩個小直欄，字序按右先左後。"
+                }
+              ],
+              "facs": "f03-l-c02-region"
+            },
+            {
+              "text": "事官本房供饋司鑰別監飯監閤監廳供饋　護產廳小兒待令主事醫女",
+              "facs": "f03-l-c03-region"
+            },
+            {
+              "text": "本房供饋雇員使令軍士閤監廳供饋",
+              "facs": "f03-l-c04-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f03-l-c05-region"
+            },
+            {
+              "text": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯一巡阿只氏善為吮乳眠睡連",
+              "facs": "f03-l-c06-region"
+            },
+            {
+              "text": "為安穩之意詮次書　奏",
+              "facs": "f03-l-c07-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f03-l-c08-region"
+            },
+            {
+              "text": "羌古道魚五箇醫女竹葉真香　入之從事官　捧入",
+              "facs": "f03-l-c09-region"
+            },
+            {
+              "text": "護產廳書　申時",
+              "facs": "f03-l-c10-region"
+            },
+            {
+              "text": "奏醫女言內宮人嚴氏諸節一向平安喫和飯藿湯三巡阿只氏善為吮乳眠",
+              "facs": "f03-l-c11-region"
+            },
+            {
+              "text": "睡連穩之意詮次書　奏",
+              "facs": "f03-l-c12-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f03-l-c13-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f03-l-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f03-r-c01-region",
+          "type": "column-position",
+          "bbox": [
+            3178,
+            587,
+            3281,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c02-region",
+          "type": "column-position",
+          "bbox": [
+            3074,
+            587,
+            3178,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c03-region",
+          "type": "column-position",
+          "bbox": [
+            2971,
+            587,
+            3074,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c04-region",
+          "type": "column-position",
+          "bbox": [
+            2868,
+            587,
+            2971,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c05-region",
+          "type": "column-position",
+          "bbox": [
+            2765,
+            587,
+            2868,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c06-region",
+          "type": "column-position",
+          "bbox": [
+            2662,
+            587,
+            2765,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c07-region",
+          "type": "column-position",
+          "bbox": [
+            2558,
+            587,
+            2662,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c08-region",
+          "type": "column-position",
+          "bbox": [
+            2455,
+            587,
+            2558,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c09-region",
+          "type": "column-position",
+          "bbox": [
+            2352,
+            587,
+            2455,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c10-region",
+          "type": "column-position",
+          "bbox": [
+            2249,
+            587,
+            2352,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c11-region",
+          "type": "column-position",
+          "bbox": [
+            2146,
+            587,
+            2249,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c12-region",
+          "type": "column-position",
+          "bbox": [
+            2042,
+            587,
+            2146,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c13-region",
+          "type": "column-position",
+          "bbox": [
+            1939,
+            587,
+            2042,
+            2406
+          ]
+        },
+        {
+          "id": "f03-r-c14-region",
+          "type": "column-position",
+          "bbox": [
+            1836,
+            587,
+            1939,
+            2406
+          ]
+        },
+        {
+          "id": "f03-l-c01-region",
+          "type": "column-position",
+          "bbox": [
+            1521,
+            594,
+            1623,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c02-region",
+          "type": "column-position",
+          "bbox": [
+            1419,
+            594,
+            1521,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c03-region",
+          "type": "column-position",
+          "bbox": [
+            1317,
+            594,
+            1419,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c04-region",
+          "type": "column-position",
+          "bbox": [
+            1215,
+            594,
+            1317,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c05-region",
+          "type": "column-position",
+          "bbox": [
+            1113,
+            594,
+            1215,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c06-region",
+          "type": "column-position",
+          "bbox": [
+            1011,
+            594,
+            1113,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c07-region",
+          "type": "column-position",
+          "bbox": [
+            908,
+            594,
+            1011,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c08-region",
+          "type": "column-position",
+          "bbox": [
+            806,
+            594,
+            908,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c09-region",
+          "type": "column-position",
+          "bbox": [
+            704,
+            594,
+            806,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c10-region",
+          "type": "column-position",
+          "bbox": [
+            602,
+            594,
+            704,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c11-region",
+          "type": "column-position",
+          "bbox": [
+            500,
+            594,
+            602,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c12-region",
+          "type": "column-position",
+          "bbox": [
+            398,
+            594,
+            500,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c13-region",
+          "type": "column-position",
+          "bbox": [
+            295,
+            594,
+            398,
+            2404
+          ]
+        },
+        {
+          "id": "f03-l-c14-region",
+          "type": "column-position",
+          "bbox": [
+            193,
+            594,
+            295,
+            2404
+          ]
+        }
+      ]
+    },
+    {
+      "image": 4,
+      "file": "004.png",
+      "label": "004",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820",
+      "content_role": "diary",
+      "sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "descriptor_sha256": "ce5fe3e463a592795f9ef566d74c108a807bac472c2539d48fd24a470fae9bd2",
+      "tile_level": 12,
+      "native_width": 3503,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143659820.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "奏明日乃是宮人嚴氏分娩後第三日也洗浴吉時令日官推擇則宮人嚴氏",
+              "facs": "f04-r-c01-region"
+            },
+            {
+              "text": "洗浴吉時今月二十七日巳時阿只氏洗浴吉時同日申時洗胎吉時同日卯",
+              "facs": "f04-r-c02-region"
+            },
+            {
+              "text": "時為吉云洗胎水當取月德丙方水用之矣竊伏念當此洗胎日氣稍寒恐",
+              "facs": "f04-r-c03-region"
+            },
+            {
+              "text": "不無勞動感傷之慮似當十分謹慎而阿只氏洗浴尤不可無致慮但用手巾",
+              "facs": "f04-r-c04-region"
+            },
+            {
+              "text": "蘸水略略拭過而洗浴湯煎次丙方水三東海明日早朝自內出給之意詮次",
+              "facs": "f04-r-c05-region"
+            },
+            {
+              "text": "書　奏",
+              "facs": "f04-r-c06-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f04-r-c07-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f04-r-c08-region"
+            },
+            {
+              "text": "奏洗胎水取月德丙方令醫女洗百度後以酒更洗古銅錢一箇以字面先入內胎缸棺",
+              "facs": "f04-r-c09-region"
+            },
+            {
+              "text": "中次入洗胎以油紙藍綿紬覆缸口以紅纓子結封自　內封標覆缸蓋以紅纓子",
+              "facs": "f04-r-c10-region"
+            },
+            {
+              "text": "貫缸四耳及蓋丁四穴自　內封標出送則　等與次知內官眼同依例舉行之意",
+              "notes": [
+                {
+                  "after": 17,
+                  "lines": [
+                    "臣"
+                  ],
+                  "source_feature": "004R-c11-n01",
+                  "position_note": "則後",
+                  "editorial_note": "字距小於其餘正文。"
+                }
+              ],
+              "facs": "f04-r-c11-region"
+            },
+            {
+              "text": "詮次書　奏",
+              "facs": "f04-r-c12-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f04-r-c13-region"
+            },
+            {
+              "text": "○光武元年丁酉九月二十七日癸丑晴吹西風辰時",
+              "facs": "f04-r-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "洗胎次月德丙方水于正汲取時仁化門請留排黻四坐于肅雍齋北庭",
+              "notes": [
+                {
+                  "after": 28,
+                  "lines": [
+                    "或有"
+                  ],
+                  "source_feature": "004L-c01-n01",
+                  "position_note": "北庭後",
+                  "editorial_note": "右邊細字，與c02小字或連。"
+                }
+              ],
+              "facs": "f04-l-c01-region"
+            },
+            {
+              "text": "",
+              "notes": [
+                {
+                  "after": null,
+                  "lines": [
+                    "齋前",
+                    "庭"
+                  ],
+                  "source_feature": "004L-c02-n01",
+                  "position_note": "c02欄首",
+                  "editorial_note": "兩短小列，歸屬與上一欄待核。"
+                }
+              ],
+              "facs": "f04-l-c02-region"
+            },
+            {
+              "text": "洗胎時卯正初刻自禁漏奏時後",
+              "facs": "f04-l-c03-region"
+            },
+            {
+              "text": "護產官主事以黑團領率員役入就肅雍齋後庭與次知從事官序立醫女",
+              "facs": "f04-l-c04-region"
+            },
+            {
+              "text": "竹葉真香奉出胎缸移盛于陶所羅注丙方水洗之洗胎水移盛另排罐內",
+              "facs": "f04-l-c05-region"
+            },
+            {
+              "text": "洗百度後以香醞酒更洗而古銅錢一箇　以字面先入白缸底中央仍",
+              "notes": [
+                {
+                  "after": 16,
+                  "lines": [
+                    "開元",
+                    "通寶"
+                  ],
+                  "source_feature": "004L-c06-n01",
+                  "position_note": "一箇後",
+                  "editorial_note": "細列近圖中心。"
+                }
+              ],
+              "facs": "f04-l-c06-region"
+            },
+            {
+              "text": "入洗胎以油紙藍綿紬覆缸口以紅纓子結封自　內封標後覆缸蓋以紅",
+              "facs": "f04-l-c07-region"
+            },
+            {
+              "text": "纓子貫缸四耳及蓋丁四穴結封自　內封標出送後先於外白缸底藉以",
+              "facs": "f04-l-c08-region"
+            },
+            {
+              "text": "白綿花以白缸入於外白缸中以白綿花堅補齊缸口以草注紙覆綿花上",
+              "facs": "f04-l-c09-region"
+            },
+            {
+              "text": "堅補勿動又以白綿花厚覆紙上甘糖作泥如缸口圓切比缸口四面剰一",
+              "facs": "f04-l-c10-region"
+            },
+            {
+              "text": "指許焙於火上待其柔和覆缸蓋以紅纓子貫缸四耳及蓋丁四穴二甲結",
+              "facs": "f04-l-c11-region"
+            },
+            {
+              "text": "封書次知中官姓　護產醫官姓姓名而并着署懸紅木牌於蓋丁上前面以護",
+              "facs": "f04-l-c12-region"
+            },
+            {
+              "text": "行書　光武元年九月二十五日",
+              "facs": "f04-l-c13-region"
+            },
+            {
+              "text": "宮人嚴氏順生男阿只氏胎後面列書次知內官姓名護產醫官姓名後四",
+              "facs": "f04-l-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f04-r-c01-region",
+          "type": "column-position",
+          "bbox": [
+            3170,
+            592,
+            3273,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c02-region",
+          "type": "column-position",
+          "bbox": [
+            3067,
+            592,
+            3170,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c03-region",
+          "type": "column-position",
+          "bbox": [
+            2964,
+            592,
+            3067,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c04-region",
+          "type": "column-position",
+          "bbox": [
+            2861,
+            592,
+            2964,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c05-region",
+          "type": "column-position",
+          "bbox": [
+            2758,
+            592,
+            2861,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c06-region",
+          "type": "column-position",
+          "bbox": [
+            2654,
+            592,
+            2758,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c07-region",
+          "type": "column-position",
+          "bbox": [
+            2551,
+            592,
+            2654,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c08-region",
+          "type": "column-position",
+          "bbox": [
+            2448,
+            592,
+            2551,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c09-region",
+          "type": "column-position",
+          "bbox": [
+            2345,
+            592,
+            2448,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c10-region",
+          "type": "column-position",
+          "bbox": [
+            2242,
+            592,
+            2345,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c11-region",
+          "type": "column-position",
+          "bbox": [
+            2138,
+            592,
+            2242,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c12-region",
+          "type": "column-position",
+          "bbox": [
+            2035,
+            592,
+            2138,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c13-region",
+          "type": "column-position",
+          "bbox": [
+            1932,
+            592,
+            2035,
+            2401
+          ]
+        },
+        {
+          "id": "f04-r-c14-region",
+          "type": "column-position",
+          "bbox": [
+            1829,
+            592,
+            1932,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c01-region",
+          "type": "column-position",
+          "bbox": [
+            1521,
+            597,
+            1623,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c02-region",
+          "type": "column-position",
+          "bbox": [
+            1419,
+            597,
+            1521,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c03-region",
+          "type": "column-position",
+          "bbox": [
+            1318,
+            597,
+            1419,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c04-region",
+          "type": "column-position",
+          "bbox": [
+            1216,
+            597,
+            1318,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c05-region",
+          "type": "column-position",
+          "bbox": [
+            1114,
+            597,
+            1216,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c06-region",
+          "type": "column-position",
+          "bbox": [
+            1012,
+            597,
+            1114,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c07-region",
+          "type": "column-position",
+          "bbox": [
+            910,
+            597,
+            1012,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c08-region",
+          "type": "column-position",
+          "bbox": [
+            808,
+            597,
+            910,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c09-region",
+          "type": "column-position",
+          "bbox": [
+            706,
+            597,
+            808,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c10-region",
+          "type": "column-position",
+          "bbox": [
+            604,
+            597,
+            706,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c11-region",
+          "type": "column-position",
+          "bbox": [
+            502,
+            597,
+            604,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c12-region",
+          "type": "column-position",
+          "bbox": [
+            400,
+            597,
+            502,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c13-region",
+          "type": "column-position",
+          "bbox": [
+            298,
+            597,
+            400,
+            2401
+          ]
+        },
+        {
+          "id": "f04-l-c14-region",
+          "type": "column-position",
+          "bbox": [
+            196,
+            597,
+            298,
+            2401
+          ]
+        }
+      ]
+    },
+    {
+      "image": 5,
+      "file": "005.png",
+      "label": "005",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782",
+      "content_role": "diary",
+      "sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "descriptor_sha256": "ce5fe3e463a592795f9ef566d74c108a807bac472c2539d48fd24a470fae9bd2",
+      "tile_level": 12,
+      "native_width": 3503,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143742782.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "耳陶豆毛中舖常毛種一立以胎缸入陶豆毛內四面堅補而又以常毛種",
+              "facs": "f05-r-c01-region"
+            },
+            {
+              "text": "覆之後覆蓋以紅纓子貫豆毛四耳及蓋丁四穴十字結封書謹封次知內",
+              "facs": "f05-r-c02-region"
+            },
+            {
+              "text": "官着署醫女奉納于　內次知從事官奉納于產室安于月德丙方",
+              "facs": "f05-r-c03-region"
+            },
+            {
+              "text": "洗胎水棄汲於月空生方內用器皿等物從事率納于本房",
+              "facs": "f05-r-c04-region"
+            },
+            {
+              "text": "護產廳書　辰時",
+              "facs": "f05-r-c05-region"
+            },
+            {
+              "text": "奏醫女言內宮人嚴氏夜來氣候平安喫和飯藿湯二巡而阿只氏善為吮乳",
+              "facs": "f05-r-c06-region"
+            },
+            {
+              "text": "大小便調順眠睡亦安穩之意詮次書　奏",
+              "facs": "f05-r-c07-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f05-r-c08-region"
+            },
+            {
+              "text": "洗浴水三東海自內出",
+              "facs": "f05-r-c09-region"
+            },
+            {
+              "text": "洗浴次陳艾湯水一鍮東海手巾次白正布白苧布各三尺陳艾二編入之",
+              "notes": [
+                {
+                  "after": 29,
+                  "lines": [
+                    "洗浴"
+                  ],
+                  "source_feature": "005R-c10-n01",
+                  "position_note": "入之後",
+                  "editorial_note": "欄末小字，左右位置依圖。"
+                }
+              ],
+              "facs": "f05-r-c10-region"
+            },
+            {
+              "text": "從事官　捧入",
+              "notes": [
+                {
+                  "after": null,
+                  "lines": [
+                    "吉時自漏局入之",
+                    "正時巳時"
+                  ],
+                  "source_feature": "005R-c11-n01",
+                  "position_note": "c11上部",
+                  "editorial_note": "右先左後，「漏局」待核。"
+                }
+              ],
+              "facs": "f05-r-c11-region"
+            },
+            {
+              "text": "護產廳書　午時",
+              "facs": "f05-r-c12-region"
+            },
+            {
+              "text": "奏醫女言內宮人嚴氏氣候平安而阿只氏善為吮乳眠睡一樣安穩之意詮",
+              "facs": "f05-r-c13-region"
+            },
+            {
+              "text": "次書　奏",
+              "facs": "f05-r-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "答曰知道",
+              "facs": "f05-l-c01-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f05-l-c02-region"
+            },
+            {
+              "text": "奏阿只氏臍帶解脫即為付貼次雲母膏一鍾子及藍綿一尺封入之意詮次書",
+              "notes": [
+                {
+                  "after": null,
+                  "lines": [
+                    "細"
+                  ],
+                  "source_feature": "005L-c03-n01",
+                  "position_note": "藍綿一之間",
+                  "editorial_note": "單字細寫偏右。"
+                }
+              ],
+              "facs": "f05-l-c03-region"
+            },
+            {
+              "text": "奏",
+              "facs": "f05-l-c04-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f05-l-c05-region"
+            },
+            {
+              "text": "阿只氏洗浴次李根桃根梅根煎水席頭骨煎水和豬膽汁一鍮大也入之從",
+              "facs": "f05-l-c06-region"
+            },
+            {
+              "text": "事官　捧入",
+              "facs": "f05-l-c07-region"
+            },
+            {
+              "text": "護產廳書　申時",
+              "facs": "f05-l-c08-region"
+            },
+            {
+              "text": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯二巡阿只氏善為吮乳洗",
+              "facs": "f05-l-c09-region"
+            },
+            {
+              "text": "浴亦為安穩之意詮次書　奏",
+              "facs": "f05-l-c10-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f05-l-c11-region"
+            },
+            {
+              "text": "傳緩次塊石雄黃塊鏡面各一兩重主事玄東完　入之捧入",
+              "facs": "f05-l-c12-region"
+            },
+            {
+              "text": "同日酉時",
+              "facs": "f05-l-c13-region"
+            },
+            {
+              "text": "詔曰宮人嚴氏貴人封爵",
+              "facs": "f05-l-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f05-r-c01-region",
+          "type": "column-position",
+          "bbox": [
+            3174,
+            599,
+            3276,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c02-region",
+          "type": "column-position",
+          "bbox": [
+            3072,
+            599,
+            3174,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c03-region",
+          "type": "column-position",
+          "bbox": [
+            2969,
+            599,
+            3072,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c04-region",
+          "type": "column-position",
+          "bbox": [
+            2867,
+            599,
+            2969,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c05-region",
+          "type": "column-position",
+          "bbox": [
+            2765,
+            599,
+            2867,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c06-region",
+          "type": "column-position",
+          "bbox": [
+            2663,
+            599,
+            2765,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c07-region",
+          "type": "column-position",
+          "bbox": [
+            2561,
+            599,
+            2663,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c08-region",
+          "type": "column-position",
+          "bbox": [
+            2459,
+            599,
+            2561,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c09-region",
+          "type": "column-position",
+          "bbox": [
+            2357,
+            599,
+            2459,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c10-region",
+          "type": "column-position",
+          "bbox": [
+            2254,
+            599,
+            2357,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c11-region",
+          "type": "column-position",
+          "bbox": [
+            2152,
+            599,
+            2254,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c12-region",
+          "type": "column-position",
+          "bbox": [
+            2050,
+            599,
+            2152,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c13-region",
+          "type": "column-position",
+          "bbox": [
+            1948,
+            599,
+            2050,
+            2399
+          ]
+        },
+        {
+          "id": "f05-r-c14-region",
+          "type": "column-position",
+          "bbox": [
+            1846,
+            599,
+            1948,
+            2399
+          ]
+        },
+        {
+          "id": "f05-l-c01-region",
+          "type": "column-position",
+          "bbox": [
+            1541,
+            592,
+            1643,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c02-region",
+          "type": "column-position",
+          "bbox": [
+            1439,
+            592,
+            1541,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c03-region",
+          "type": "column-position",
+          "bbox": [
+            1337,
+            592,
+            1439,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c04-region",
+          "type": "column-position",
+          "bbox": [
+            1235,
+            592,
+            1337,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c05-region",
+          "type": "column-position",
+          "bbox": [
+            1133,
+            592,
+            1235,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c06-region",
+          "type": "column-position",
+          "bbox": [
+            1031,
+            592,
+            1133,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c07-region",
+          "type": "column-position",
+          "bbox": [
+            929,
+            592,
+            1031,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c08-region",
+          "type": "column-position",
+          "bbox": [
+            827,
+            592,
+            929,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c09-region",
+          "type": "column-position",
+          "bbox": [
+            725,
+            592,
+            827,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c10-region",
+          "type": "column-position",
+          "bbox": [
+            623,
+            592,
+            725,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c11-region",
+          "type": "column-position",
+          "bbox": [
+            521,
+            592,
+            623,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c12-region",
+          "type": "column-position",
+          "bbox": [
+            419,
+            592,
+            521,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c13-region",
+          "type": "column-position",
+          "bbox": [
+            317,
+            592,
+            419,
+            2406
+          ]
+        },
+        {
+          "id": "f05-l-c14-region",
+          "type": "column-position",
+          "bbox": [
+            215,
+            592,
+            317,
+            2406
+          ]
+        }
+      ]
+    },
+    {
+      "image": 6,
+      "file": "006.png",
+      "label": "006",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383",
+      "content_role": "diary",
+      "sha256": "cd15b045257a29cb8d628da8f12884c2ed0499a57a0fa2d84d53e6cffc23b273",
+      "descriptor_sha256": "ce5fe3e463a592795f9ef566d74c108a807bac472c2539d48fd24a470fae9bd2",
+      "tile_level": 12,
+      "native_width": 3503,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143827383.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "護產廳次知從事官護產官小兒醫主事及雇員醫女使令軍士并",
+              "facs": "f06-r-c01-region"
+            },
+            {
+              "text": "賜饋",
+              "facs": "f06-r-c02-region"
+            },
+            {
+              "text": "○光武元年丁酉九月二十八日甲寅曉雨辰時",
+              "facs": "f06-r-c03-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f06-r-c04-region"
+            },
+            {
+              "text": "奏醫女言內貴人嚴氏夜來氣候平安喫和飯藿湯二巡阿只氏善為吮乳大",
+              "facs": "f06-r-c05-region"
+            },
+            {
+              "text": "小便調順眠睡亦為安穩之意詮次書　奏",
+              "facs": "f06-r-c06-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f06-r-c07-region"
+            },
+            {
+              "text": "護產廳書　午時",
+              "facs": "f06-r-c08-region"
+            },
+            {
+              "text": "奏醫女言內貴人氣候與朝一樣平安阿只氏善為吮乳眠睡亦為安穩之意",
+              "facs": "f06-r-c09-region"
+            },
+            {
+              "text": "詮次書　奏",
+              "facs": "f06-r-c10-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f06-r-c11-region"
+            },
+            {
+              "text": "當日書　奏書貴人姓氏更考前例　稟定不書姓氏",
+              "facs": "f06-r-c12-region"
+            },
+            {
+              "text": "護產廳書　申時",
+              "facs": "f06-r-c13-region"
+            },
+            {
+              "text": "奏醫女言內貴人氣候平安喫和飯藿湯一巡阿只氏吮乳眠睡亦為安穩之意詮",
+              "facs": "f06-r-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "次書　奏",
+              "facs": "f06-l-c01-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f06-l-c02-region"
+            },
+            {
+              "text": "○光武元年丁酉九月二十九日乙卯晴吹西風辰時",
+              "facs": "f06-l-c03-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f06-l-c04-region"
+            },
+            {
+              "text": "奏醫女言內貴人氣候夜來一向平安喫和飯藿湯一巡而阿只氏善為吮乳",
+              "facs": "f06-l-c05-region"
+            },
+            {
+              "text": "大小便調順眠睡亦為安穩之意詮次書　奏",
+              "facs": "f06-l-c06-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f06-l-c07-region"
+            },
+            {
+              "text": "護產廳書　午時",
+              "facs": "f06-l-c08-region"
+            },
+            {
+              "text": "奏醫女言內貴人氣候平安喫和飯藿湯一巡而阿只氏善為吮乳而二次大便",
+              "facs": "f06-l-c09-region"
+            },
+            {
+              "text": "一次小便眠睡亦為安穩之意詮次書　奏",
+              "facs": "f06-l-c10-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f06-l-c11-region"
+            },
+            {
+              "text": "護產廳書　申時",
+              "facs": "f06-l-c12-region"
+            },
+            {
+              "text": "奏醫女言內貴人氣候一向喫和飯藿湯一巡阿只氏三次吮乳一次大便眠睡亦",
+              "facs": "f06-l-c13-region"
+            },
+            {
+              "text": "為安穩之意詮次書　奏",
+              "facs": "f06-l-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f06-r-c01-region",
+          "type": "column-position",
+          "bbox": [
+            3162,
+            577,
+            3264,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c02-region",
+          "type": "column-position",
+          "bbox": [
+            3060,
+            577,
+            3162,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c03-region",
+          "type": "column-position",
+          "bbox": [
+            2958,
+            577,
+            3060,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c04-region",
+          "type": "column-position",
+          "bbox": [
+            2857,
+            577,
+            2958,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c05-region",
+          "type": "column-position",
+          "bbox": [
+            2755,
+            577,
+            2857,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c06-region",
+          "type": "column-position",
+          "bbox": [
+            2653,
+            577,
+            2755,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c07-region",
+          "type": "column-position",
+          "bbox": [
+            2551,
+            577,
+            2653,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c08-region",
+          "type": "column-position",
+          "bbox": [
+            2449,
+            577,
+            2551,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c09-region",
+          "type": "column-position",
+          "bbox": [
+            2348,
+            577,
+            2449,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c10-region",
+          "type": "column-position",
+          "bbox": [
+            2246,
+            577,
+            2348,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c11-region",
+          "type": "column-position",
+          "bbox": [
+            2144,
+            577,
+            2246,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c12-region",
+          "type": "column-position",
+          "bbox": [
+            2042,
+            577,
+            2144,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c13-region",
+          "type": "column-position",
+          "bbox": [
+            1940,
+            577,
+            2042,
+            2399
+          ]
+        },
+        {
+          "id": "f06-r-c14-region",
+          "type": "column-position",
+          "bbox": [
+            1838,
+            577,
+            1940,
+            2399
+          ]
+        },
+        {
+          "id": "f06-l-c01-region",
+          "type": "column-position",
+          "bbox": [
+            1544,
+            592,
+            1645,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c02-region",
+          "type": "column-position",
+          "bbox": [
+            1442,
+            592,
+            1544,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c03-region",
+          "type": "column-position",
+          "bbox": [
+            1341,
+            592,
+            1442,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c04-region",
+          "type": "column-position",
+          "bbox": [
+            1239,
+            592,
+            1341,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c05-region",
+          "type": "column-position",
+          "bbox": [
+            1138,
+            592,
+            1239,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c06-region",
+          "type": "column-position",
+          "bbox": [
+            1036,
+            592,
+            1138,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c07-region",
+          "type": "column-position",
+          "bbox": [
+            935,
+            592,
+            1036,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c08-region",
+          "type": "column-position",
+          "bbox": [
+            833,
+            592,
+            935,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c09-region",
+          "type": "column-position",
+          "bbox": [
+            732,
+            592,
+            833,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c10-region",
+          "type": "column-position",
+          "bbox": [
+            631,
+            592,
+            732,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c11-region",
+          "type": "column-position",
+          "bbox": [
+            529,
+            592,
+            631,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c12-region",
+          "type": "column-position",
+          "bbox": [
+            428,
+            592,
+            529,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c13-region",
+          "type": "column-position",
+          "bbox": [
+            326,
+            592,
+            428,
+            2394
+          ]
+        },
+        {
+          "id": "f06-l-c14-region",
+          "type": "column-position",
+          "bbox": [
+            225,
+            592,
+            326,
+            2394
+          ]
+        }
+      ]
+    },
+    {
+      "image": 7,
+      "file": "007.png",
+      "label": "007",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100",
+      "content_role": "diary",
+      "sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "descriptor_sha256": "ce5fe3e463a592795f9ef566d74c108a807bac472c2539d48fd24a470fae9bd2",
+      "tile_level": 12,
+      "native_width": 3503,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143907100.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "答曰知道",
+              "facs": "f07-r-c01-region"
+            },
+            {
+              "text": "安神丸一劑牛黃膏一劑有製　入之例今番則何以為之事微　稟",
+              "facs": "f07-r-c02-region"
+            },
+            {
+              "text": "依例製　入",
+              "notes": [
+                {
+                  "after": null,
+                  "lines": [
+                    "朱黃麝三種"
+                  ],
+                  "source_feature": "007R-c03-n01",
+                  "position_note": "依例製入後",
+                  "editorial_note": "原格尾附註，首尾待核。"
+                }
+              ],
+              "facs": "f07-r-c03-region"
+            },
+            {
+              "text": "內下事奉",
+              "facs": "f07-r-c04-region"
+            },
+            {
+              "text": "勅",
+              "facs": "f07-r-c05-region"
+            },
+            {
+              "text": "未時童阿只氏臍帶脫下後古例有雲母膏付貼然今番則只以雪綿子緊",
+              "facs": "f07-r-c06-region"
+            },
+            {
+              "text": "貼之意微　稟",
+              "facs": "f07-r-c07-region"
+            },
+            {
+              "text": "次知中使　聽令",
+              "facs": "f07-r-c08-region"
+            },
+            {
+              "text": "貴人有微滯感服查陳湯二貼",
+              "notes": [
+                {
+                  "after": 12,
+                  "lines": [
+                    "下人聽煎供"
+                  ],
+                  "source_feature": "007R-c09-n01",
+                  "position_note": "二貼後",
+                  "editorial_note": "文字偏小，聽待核。"
+                }
+              ],
+              "facs": "f07-r-c09-region"
+            },
+            {
+              "text": "次知從事官護產官小兒醫主事及雇員醫女使令軍士并",
+              "facs": "f07-r-c10-region"
+            },
+            {
+              "text": "賜饋",
+              "facs": "f07-r-c11-region"
+            },
+            {
+              "text": "○光武元年丁酉九月三十日丙辰晴吹西風辰時",
+              "facs": "f07-r-c12-region"
+            },
+            {
+              "text": "護產廳書",
+              "facs": "f07-r-c13-region"
+            },
+            {
+              "text": "奏醫女言內貴人氣候夜來平安阿只氏善為吮乳大小便調順眠睡亦為安穩之意",
+              "facs": "f07-r-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "詮次書　奏",
+              "facs": "f07-l-c01-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f07-l-c02-region"
+            },
+            {
+              "text": "護產廳書　午時",
+              "facs": "f07-l-c03-region"
+            },
+            {
+              "text": "奏醫女言內貴人氣候與朝一樣喫和飯藿湯二巡而阿只氏善為吮乳大小便",
+              "facs": "f07-l-c04-region"
+            },
+            {
+              "text": "調順眠睡亦安穩之意詮次書　奏",
+              "facs": "f07-l-c05-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f07-l-c06-region"
+            },
+            {
+              "text": "護產廳書　申時",
+              "facs": "f07-l-c07-region"
+            },
+            {
+              "text": "奏醫女言內貴人氣候一向阿只氏善為吮乳眠睡亦為安穩之意詮次書　奏",
+              "facs": "f07-l-c08-region"
+            },
+            {
+              "text": "答曰知道",
+              "facs": "f07-l-c09-region"
+            },
+            {
+              "text": "○光武元年丁酉十月初一日丁巳晴",
+              "notes": [
+                {
+                  "after": 15,
+                  "lines": [
+                    "即一七日也辰時"
+                  ],
+                  "source_feature": "007L-c10-n01",
+                  "position_note": "晴後",
+                  "editorial_note": "日期下細列。"
+                }
+              ],
+              "facs": "f07-l-c10-region"
+            },
+            {
+              "text": "捲草祭物",
+              "facs": "f07-l-c11-region"
+            },
+            {
+              "text": "命正銀八十兩命紬十疋命紬十疋命紬黃絲十斤命白米一百斗分十帒",
+              "facs": "f07-l-c12-region"
+            },
+            {
+              "text": "",
+              "notes": [
+                {
+                  "after": null,
+                  "lines": [
+                    "本院",
+                    "舉行"
+                  ],
+                  "source_feature": "007L-c13-n01",
+                  "position_note": "c13上部",
+                  "editorial_note": "兩細列分書。"
+                }
+              ],
+              "facs": "f07-l-c13-region"
+            },
+            {
+              "text": "排設所用",
+              "notes": [
+                {
+                  "after": 4,
+                  "lines": [
+                    "捲草時"
+                  ],
+                  "source_feature": "007L-c14-n01",
+                  "position_note": "所用後",
+                  "editorial_note": "末行下注。"
+                }
+              ],
+              "facs": "f07-l-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f07-r-c01-region",
+          "type": "column-position",
+          "bbox": [
+            3161,
+            592,
+            3261,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c02-region",
+          "type": "column-position",
+          "bbox": [
+            3060,
+            592,
+            3161,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c03-region",
+          "type": "column-position",
+          "bbox": [
+            2959,
+            592,
+            3060,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c04-region",
+          "type": "column-position",
+          "bbox": [
+            2858,
+            592,
+            2959,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c05-region",
+          "type": "column-position",
+          "bbox": [
+            2758,
+            592,
+            2858,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c06-region",
+          "type": "column-position",
+          "bbox": [
+            2657,
+            592,
+            2758,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c07-region",
+          "type": "column-position",
+          "bbox": [
+            2556,
+            592,
+            2657,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c08-region",
+          "type": "column-position",
+          "bbox": [
+            2455,
+            592,
+            2556,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c09-region",
+          "type": "column-position",
+          "bbox": [
+            2354,
+            592,
+            2455,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c10-region",
+          "type": "column-position",
+          "bbox": [
+            2254,
+            592,
+            2354,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c11-region",
+          "type": "column-position",
+          "bbox": [
+            2153,
+            592,
+            2254,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c12-region",
+          "type": "column-position",
+          "bbox": [
+            2052,
+            592,
+            2153,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c13-region",
+          "type": "column-position",
+          "bbox": [
+            1951,
+            592,
+            2052,
+            2399
+          ]
+        },
+        {
+          "id": "f07-r-c14-region",
+          "type": "column-position",
+          "bbox": [
+            1851,
+            592,
+            1951,
+            2399
+          ]
+        },
+        {
+          "id": "f07-l-c01-region",
+          "type": "column-position",
+          "bbox": [
+            1535,
+            599,
+            1636,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c02-region",
+          "type": "column-position",
+          "bbox": [
+            1435,
+            599,
+            1535,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c03-region",
+          "type": "column-position",
+          "bbox": [
+            1335,
+            599,
+            1435,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c04-region",
+          "type": "column-position",
+          "bbox": [
+            1235,
+            599,
+            1335,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c05-region",
+          "type": "column-position",
+          "bbox": [
+            1134,
+            599,
+            1235,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c06-region",
+          "type": "column-position",
+          "bbox": [
+            1034,
+            599,
+            1134,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c07-region",
+          "type": "column-position",
+          "bbox": [
+            934,
+            599,
+            1034,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c08-region",
+          "type": "column-position",
+          "bbox": [
+            833,
+            599,
+            934,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c09-region",
+          "type": "column-position",
+          "bbox": [
+            733,
+            599,
+            833,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c10-region",
+          "type": "column-position",
+          "bbox": [
+            633,
+            599,
+            733,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c11-region",
+          "type": "column-position",
+          "bbox": [
+            533,
+            599,
+            633,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c12-region",
+          "type": "column-position",
+          "bbox": [
+            432,
+            599,
+            533,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c13-region",
+          "type": "column-position",
+          "bbox": [
+            332,
+            599,
+            432,
+            2397
+          ]
+        },
+        {
+          "id": "f07-l-c14-region",
+          "type": "column-position",
+          "bbox": [
+            232,
+            599,
+            332,
+            2397
+          ]
+        }
+      ]
+    },
+    {
+      "image": 8,
+      "file": "008.png",
+      "label": "008",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "content_role": "diary",
+      "sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "descriptor_sha256": "ce5fe3e463a592795f9ef566d74c108a807bac472c2539d48fd24a470fae9bd2",
+      "tile_level": 12,
+      "native_width": 3503,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030144011638.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "塗朱兩木二坐塗朱大板子五立香案一坐高足床畫邊油紙六張四兩黃",
+              "facs": "f08-r-c01-region"
+            },
+            {
+              "text": "燭一雙鍮大燭臺一雙鍮香爐一坐鍮香盒一坐鍮火爐一坐鍮大也一坐火",
+              "facs": "f08-r-c02-region"
+            },
+            {
+              "text": "箸一部沈香捲草入盛全漆函一坐白紋九張付地衣一浮拜席二立",
+              "notes": [
+                {
+                  "after": 27,
+                  "lines": [
+                    "本院舉行"
+                  ],
+                  "source_feature": "008R-c03-n01",
+                  "position_note": "二立後",
+                  "editorial_note": "末行下注。"
+                }
+              ],
+              "facs": "f08-r-c03-region"
+            },
+            {
+              "text": "捲草封裹所用",
+              "facs": "f08-r-c04-region"
+            },
+            {
+              "text": "捲草初裹次白苧帒　再裹次紅紬長三尺二幅袱　函外裹次紅紬六幅袱",
+              "facs": "f08-r-c05-region"
+            },
+            {
+              "text": "封裹次紅鄕縷三甲所　負函次紅綿縷三甲所　封裹後覆函次紅紬五幅袱",
+              "facs": "f08-r-c06-region"
+            },
+            {
+              "text": "紅木牌　葉紙硯筆墨",
+              "facs": "f08-r-c07-region"
+            },
+            {
+              "text": "捲草行禮于肅雍齋大廳排設舉行而獻官朴準承為之行祭後捲草函護",
+              "facs": "f08-r-c08-region"
+            },
+            {
+              "text": "產廳使令以支機負奉陪　進于內資時行路諸般舉行自外為之門路以",
+              "facs": "f08-r-c09-region"
+            },
+            {
+              "text": "錫類門宣陽門南新建門木柵門為之",
+              "facs": "f08-r-c10-region"
+            },
+            {
+              "text": "藏胎次進發時",
+              "notes": [
+                {
+                  "after": 6,
+                  "lines": [
+                    "同日午時"
+                  ],
+                  "source_feature": "008R-c11-n01",
+                  "position_note": "進發時後",
+                  "editorial_note": "末行下注。"
+                }
+              ],
+              "facs": "f08-r-c11-region"
+            },
+            {
+              "text": "安胎中使金圭復從事官崔錫斗清道警務官貳員奏時官一員相土官",
+              "facs": "f08-r-c12-region"
+            },
+            {
+              "text": "一員別監一人看役書員二人陪胎書員一人武監六人奉　胎缸安于函盛于",
+              "facs": "f08-r-c13-region"
+            },
+            {
+              "text": "樓子擔持軍四名　沙炬六柄　奉炬軍六名奉樓子軍四名扶擔",
+              "notes": [
+                {
+                  "after": 7,
+                  "lines": [
+                    "主殿司",
+                    "舉行"
+                  ],
+                  "source_feature": "008R-c14-n01",
+                  "position_note": "四名後",
+                  "editorial_note": "小字兩列。"
+                },
+                {
+                  "after": 12,
+                  "lines": [
+                    "會計院",
+                    "舉行"
+                  ],
+                  "source_feature": "008R-c14-n02",
+                  "position_note": "六柄後",
+                  "editorial_note": "小字兩列。"
+                }
+              ],
+              "facs": "f08-r-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "軍二名　內吹六名依例舉行今番則進而不依進發程路自錫類門宣",
+              "notes": [
+                {
+                  "after": 3,
+                  "lines": [
+                    "侍從院",
+                    "舉行"
+                  ],
+                  "source_feature": "008L-c01-n01",
+                  "position_note": "二名後",
+                  "editorial_note": "小字兩列。"
+                }
+              ],
+              "facs": "f08-l-c01-region"
+            },
+            {
+              "text": "陽門新建木柵門銀行所前路貞洞明禮宮前路紛帥洞黃土峴惠政橋把子廛",
+              "facs": "f08-l-c02-region"
+            },
+            {
+              "text": "石橋敦化門前路金虎門進善門肅章門建陽門銅龍門景化門集禮門崇",
+              "facs": "f08-l-c03-region"
+            },
+            {
+              "text": "智門明光門青陽門金馬門演慶堂前路詣凌虛亭藏胎于凌虛亭南麓子",
+              "facs": "f08-l-c04-region"
+            },
+            {
+              "text": "坐",
+              "facs": "f08-l-c05-region"
+            },
+            {
+              "text": "美飯分排　羹一盒飯一盒",
+              "notes": [
+                {
+                  "after": 4,
+                  "lines": [
+                    "同日"
+                  ],
+                  "source_feature": "008L-c06-n01",
+                  "position_note": "分排後",
+                  "editorial_note": "小字一列。"
+                }
+              ],
+              "facs": "f08-l-c06-region"
+            },
+            {
+              "text": "護產官",
+              "facs": "f08-l-c07-region"
+            },
+            {
+              "text": "護產廳雇員",
+              "facs": "f08-l-c08-region"
+            },
+            {
+              "text": "護產廳醫女",
+              "facs": "f08-l-c09-region"
+            },
+            {
+              "text": "護產廳使令",
+              "facs": "f08-l-c10-region"
+            },
+            {
+              "text": "護產廳軍士",
+              "facs": "f08-l-c11-region"
+            },
+            {
+              "text": "護產廳以下",
+              "facs": "f08-l-c12-region"
+            },
+            {
+              "text": "十月十五日即三七日也其時羹飯與米藿分排",
+              "facs": "f08-l-c13-region"
+            },
+            {
+              "text": "醫官廳以下",
+              "facs": "f08-l-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f08-r-c01-region",
+          "type": "column-position",
+          "bbox": [
+            3167,
+            597,
+            3269,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c02-region",
+          "type": "column-position",
+          "bbox": [
+            3065,
+            597,
+            3167,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c03-region",
+          "type": "column-position",
+          "bbox": [
+            2963,
+            597,
+            3065,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c04-region",
+          "type": "column-position",
+          "bbox": [
+            2861,
+            597,
+            2963,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c05-region",
+          "type": "column-position",
+          "bbox": [
+            2759,
+            597,
+            2861,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c06-region",
+          "type": "column-position",
+          "bbox": [
+            2657,
+            597,
+            2759,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c07-region",
+          "type": "column-position",
+          "bbox": [
+            2555,
+            597,
+            2657,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c08-region",
+          "type": "column-position",
+          "bbox": [
+            2453,
+            597,
+            2555,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c09-region",
+          "type": "column-position",
+          "bbox": [
+            2351,
+            597,
+            2453,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c10-region",
+          "type": "column-position",
+          "bbox": [
+            2249,
+            597,
+            2351,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c11-region",
+          "type": "column-position",
+          "bbox": [
+            2147,
+            597,
+            2249,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c12-region",
+          "type": "column-position",
+          "bbox": [
+            2045,
+            597,
+            2147,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c13-region",
+          "type": "column-position",
+          "bbox": [
+            1943,
+            597,
+            2045,
+            2399
+          ]
+        },
+        {
+          "id": "f08-r-c14-region",
+          "type": "column-position",
+          "bbox": [
+            1841,
+            597,
+            1943,
+            2399
+          ]
+        },
+        {
+          "id": "f08-l-c01-region",
+          "type": "column-position",
+          "bbox": [
+            1546,
+            589,
+            1648,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c02-region",
+          "type": "column-position",
+          "bbox": [
+            1445,
+            589,
+            1546,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c03-region",
+          "type": "column-position",
+          "bbox": [
+            1344,
+            589,
+            1445,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c04-region",
+          "type": "column-position",
+          "bbox": [
+            1243,
+            589,
+            1344,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c05-region",
+          "type": "column-position",
+          "bbox": [
+            1142,
+            589,
+            1243,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c06-region",
+          "type": "column-position",
+          "bbox": [
+            1041,
+            589,
+            1142,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c07-region",
+          "type": "column-position",
+          "bbox": [
+            940,
+            589,
+            1041,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c08-region",
+          "type": "column-position",
+          "bbox": [
+            839,
+            589,
+            940,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c09-region",
+          "type": "column-position",
+          "bbox": [
+            738,
+            589,
+            839,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c10-region",
+          "type": "column-position",
+          "bbox": [
+            636,
+            589,
+            738,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c11-region",
+          "type": "column-position",
+          "bbox": [
+            535,
+            589,
+            636,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c12-region",
+          "type": "column-position",
+          "bbox": [
+            434,
+            589,
+            535,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c13-region",
+          "type": "column-position",
+          "bbox": [
+            333,
+            589,
+            434,
+            2397
+          ]
+        },
+        {
+          "id": "f08-l-c14-region",
+          "type": "column-position",
+          "bbox": [
+            232,
+            589,
+            333,
+            2397
+          ]
+        }
+      ]
+    },
+    {
+      "image": 9,
+      "file": "009.png",
+      "label": "009",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144107361",
+      "content_role": "diary",
+      "sha256": "e6ea3da6db1e5b0f31a136d268964068ccc08ac6cbadfdfd03bfa638bf04d843",
+      "descriptor_sha256": "ce5fe3e463a592795f9ef566d74c108a807bac472c2539d48fd24a470fae9bd2",
+      "tile_level": 12,
+      "native_width": 3503,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030144107361.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144107361",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "護產官二員",
+              "facs": "f09-r-c01-region"
+            },
+            {
+              "text": "小兒醫一員",
+              "facs": "f09-r-c02-region"
+            },
+            {
+              "text": "以上各羹飯一盒",
+              "facs": "f09-r-c03-region"
+            },
+            {
+              "text": "藏胎後別單　賞格",
+              "facs": "f09-r-c04-region"
+            },
+            {
+              "text": "次知金圭復熟馬一匹　面給從事官崔錫斗白木二疋　賜給次知房使令二名房",
+              "facs": "f09-r-c05-region"
+            },
+            {
+              "text": "直一名飯工一名水工二名各布一疋　賜給從事官房使令二名房直一名飯工",
+              "facs": "f09-r-c06-region"
+            },
+            {
+              "text": "一名水工一名各布一疋　賜給司鑰一人別監二人各白木一疋木一疋水工一",
+              "facs": "f09-r-c07-region"
+            },
+            {
+              "text": "名布一疋飯監一人員役二人各白木一疋木一疋飯工一名布一疋　賜給",
+              "facs": "f09-r-c08-region"
+            },
+            {
+              "text": "護產官朴準承崔錫祐各熟馬　面給別入直李海昌主事玄東完各綿紬",
+              "facs": "f09-r-c09-region"
+            },
+            {
+              "text": "一疋白木一疋　賜給",
+              "facs": "f09-r-c10-region"
+            },
+            {
+              "text": "捲草官朴準承花方紬一疋綿紬一疋雇員金龍煥劉浩榮各白木一疋官木",
+              "facs": "f09-r-c11-region"
+            },
+            {
+              "text": "一疋待令雇員朴胤錫趙衡鎮池殷錫各木一疋醫女竹葉真香各綿紬一",
+              "facs": "f09-r-c12-region"
+            },
+            {
+              "text": "疋木一疋木一疋　賜給抄奴金永順使令趙元俊成福龍各木一疋待令使令二",
+              "facs": "f09-r-c13-region"
+            },
+            {
+              "text": "名軍士英到基永待令軍士三名童便軍士二名各布一疋　賜給",
+              "facs": "f09-r-c14-region"
+            }
+          ],
+          "extras": [],
+          "has_text": true
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "library-note",
+              "location": "空葉下緣",
+              "text": "",
+              "note": "館藏現代貼籤可見1962及流水碼；內容只連館圖。",
+              "source_feature": "009L-p01"
+            }
+          ],
+          "has_text": false
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f09-r-c01-region",
+          "type": "column-position",
+          "bbox": [
+            3174,
+            577,
+            3276,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c02-region",
+          "type": "column-position",
+          "bbox": [
+            3072,
+            577,
+            3174,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c03-region",
+          "type": "column-position",
+          "bbox": [
+            2969,
+            577,
+            3072,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c04-region",
+          "type": "column-position",
+          "bbox": [
+            2867,
+            577,
+            2969,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c05-region",
+          "type": "column-position",
+          "bbox": [
+            2765,
+            577,
+            2867,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c06-region",
+          "type": "column-position",
+          "bbox": [
+            2663,
+            577,
+            2765,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c07-region",
+          "type": "column-position",
+          "bbox": [
+            2561,
+            577,
+            2663,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c08-region",
+          "type": "column-position",
+          "bbox": [
+            2459,
+            577,
+            2561,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c09-region",
+          "type": "column-position",
+          "bbox": [
+            2357,
+            577,
+            2459,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c10-region",
+          "type": "column-position",
+          "bbox": [
+            2254,
+            577,
+            2357,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c11-region",
+          "type": "column-position",
+          "bbox": [
+            2152,
+            577,
+            2254,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c12-region",
+          "type": "column-position",
+          "bbox": [
+            2050,
+            577,
+            2152,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c13-region",
+          "type": "column-position",
+          "bbox": [
+            1948,
+            577,
+            2050,
+            2399
+          ]
+        },
+        {
+          "id": "f09-r-c14-region",
+          "type": "column-position",
+          "bbox": [
+            1846,
+            577,
+            1948,
+            2399
+          ]
+        }
+      ]
+    },
+    {
+      "image": 10,
+      "file": "010.png",
+      "label": "010",
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144136611",
+      "content_role": "back-cover",
+      "sha256": "61671a71a964d2a861aaa12bdec6e43444a79e462e352ecfa93f50a8fa8b2a19",
+      "descriptor_sha256": "c1d6b1dfb3dcccc273ea6262ffd50b6371575868d0cecaff29fc5cce4bc77907",
+      "tile_level": 12,
+      "native_width": 2033,
+      "native_height": 2894,
+      "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030144136611.xml",
+      "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144136611",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [],
+          "has_text": false
+        }
+      ],
+      "facsimile_regions": []
+    }
+  ]
+}
