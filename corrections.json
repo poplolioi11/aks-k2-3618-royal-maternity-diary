@@ -1,0 +1,1201 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 52,
+  "changes": [
+    {
+      "image": 3,
+      "side": "left",
+      "column": 6,
+      "kind": "main-text",
+      "before": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯一巡阿只氏善為吮乳眠睡連",
+      "after": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯灌湯一巡阿只氏善為吮乳眠睡連",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        1011,
+        594,
+        1113,
+        2404
+      ],
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 9,
+      "kind": "main-text",
+      "before": "羌古道魚五箇醫女竹葉真香　入之從事官　捧入",
+      "after": "□古道魚五箇醫女竹葉真香　入之從事官　捧入",
+      "reason": "第一字上部墨筆似艹、羊交接，下部一鉤伸彎，盲稿讀芫或宍，未能確認。",
+      "source_bbox": [
+        704,
+        594,
+        806,
+        2404
+      ],
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 11,
+      "kind": "main-text",
+      "before": "奏醫女言內宮人嚴氏諸節一向平安喫和飯藿湯三巡阿只氏善為吮乳眠",
+      "after": "奏醫女言內宮人嚴氏諸節一向平安喫和飯灌湯三巡阿只氏善為吮乳眠",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        500,
+        594,
+        602,
+        2404
+      ],
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 7,
+      "kind": "main-text",
+      "before": "奏醫女言內宮人嚴氏分娩後氣候連為平安以和飯藿湯三巡而新生阿只氏善",
+      "after": "奏醫女言內宮人嚴氏分娩後氣候連為平安以和飯灌湯三巡而新生阿只氏善",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        2558,
+        587,
+        2662,
+        2406
+      ],
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 1,
+      "kind": "main-text",
+      "before": "洗胎次月德丙方水于正汲取時仁化門請留排黻四坐于肅雍齋北庭",
+      "after": "洗胎次月德丙方水子正汲取時仁化門請留排甕四坐于肅雍齋北庭",
+      "reason": "水下見短折及一筆穿橫，字形是子，區別同欄近末的介詞于。 排後寫雍形中段並連瓦部，與五欄末同字。",
+      "source_bbox": [
+        1521,
+        597,
+        1623,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 4,
+      "kind": "main-text",
+      "before": "護產官主事以黑團領率員役入就肅雍齋後庭與次知從事官序立醫女",
+      "after": "護產官主事以黑團領率貟役入就肅雍齋後庭與次知從事官序立醫女",
+      "reason": "員的頂框彎折且不完全封，作貟形，與同冊近形草字區分。",
+      "source_bbox": [
+        1216,
+        597,
+        1318,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 5,
+      "kind": "main-text",
+      "before": "竹葉真香奉出胎缸移盛于陶所羅注丙方水洗之洗胎水移盛另排罐內",
+      "after": "竹葉真香奉出胎缸移盛于陶所羅注丙方水洗之洗胎水移盛另排甕內",
+      "reason": "尾前見雍形中段和瓦形底，和第一欄用字相同。",
+      "source_bbox": [
+        1114,
+        597,
+        1216,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 9,
+      "kind": "main-text",
+      "before": "白綿花以白缸入於外白缸中以白綿花堅補齊缸口以草注紙覆綿花上",
+      "after": "白綿花以白缸入於外白缸中以白綿花堅闐齊缸口以草注紙覆綿花上",
+      "reason": "首見門框中有真內形，不見衣部偏旁；同面下一欄同形。",
+      "source_bbox": [
+        706,
+        597,
+        808,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 10,
+      "kind": "main-text",
+      "before": "堅補勿動又以白綿花厚覆紙上甘糖作泥如缸口圓切比缸口四面剰一",
+      "after": "堅闐勿動又以白綿花厚覆紙上甘糖作尼如缸口圓切比缸口四面剩一",
+      "reason": "門形與右上橫、框內真字可分，並非補。 尼字左側格域沒有可判為水旁的墨筆；照錄尼，泥作候讀。 字形呈乘及右刀形，錄剩；剰留形體候。",
+      "source_bbox": [
+        604,
+        597,
+        706,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 12,
+      "kind": "main-text",
+      "before": "封書次知中官姓　護產醫官姓姓名而并着署懸紅木牌於蓋丁上前面以護",
+      "after": "封書次知中官姓　護產醫官姓而并着署懸紅木牌於蓋丁上前面以護",
+      "reason": "前後兩處各一姓字，下一字接而，初稿姓名為重錄。",
+      "source_bbox": [
+        400,
+        597,
+        502,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 13,
+      "kind": "main-text",
+      "before": "行書　光武元年九月二十五日",
+      "after": "行書",
+      "reason": "日期為行書下另一串尺寸較小的字，移至小字欄，避免與f004R日題混。",
+      "source_bbox": [
+        298,
+        597,
+        400,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 1,
+      "kind": "main-text",
+      "before": "奏明日乃是宮人嚴氏分娩後第三日也洗浴吉時令日官推擇則宮人嚴氏",
+      "after": "奏明日乃是宮人嚴氏分娩後第三日也洗浴吉時今日官推擇則宮人嚴氏",
+      "reason": "日官前可見人形蓋、下橫及 折筆近今；暫錄今日官以保留原書寫法。",
+      "source_bbox": [
+        3170,
+        592,
+        3273,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 3,
+      "kind": "main-text",
+      "before": "時為吉云洗胎水當取月德丙方水用之矣竊伏念當此洗胎日氣稍寒恐",
+      "after": "時為吉云洗胎水當取月德丙方水用之矣□伏念當此洗胎日氣稍寒恐",
+      "reason": "相鄰矣、伏兩個可清楚定位；中間墨筆近艹頭及彎勾，候第、竊、苟。",
+      "source_bbox": [
+        2964,
+        592,
+        3067,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 9,
+      "kind": "main-text",
+      "before": "奏洗胎水取月德丙方令醫女洗百度後以酒更洗古銅錢一箇以字面先入內胎缸棺",
+      "after": "奏洗胎水取月德丙方令醫女洗百度後以酒更洗古銅錢一箇以字面先入內胎缸底",
+      "reason": "末字廣形內见低位連筆，不見木旁。",
+      "source_bbox": [
+        2345,
+        592,
+        2448,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 6,
+      "kind": "main-text",
+      "before": "阿只氏洗浴次李根桃根梅根煎水席頭骨煎水和豬膽汁一鍮大也入之從",
+      "after": "阿只氏洗浴次李根桃根梅根煎水席頭骨煎水和猪膽汁一鍮大也入之從",
+      "reason": "初字左部兩折彎細，近犬旁，保留字形。",
+      "source_bbox": [
+        1031,
+        592,
+        1133,
+        2406
+      ],
+      "source_image_sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 9,
+      "kind": "main-text",
+      "before": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯二巡阿只氏善為吮乳洗",
+      "after": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯灌湯二巡阿只氏善為吮乳洗",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        725,
+        592,
+        827,
+        2406
+      ],
+      "source_image_sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 12,
+      "kind": "main-text",
+      "before": "傳緩次塊石雄黃塊鏡面各一兩重主事玄東完　入之捧入",
+      "after": "傳纏次塊石雄黃塊鏡面各一兩重主事玄東完　入之捧入",
+      "reason": "首字保留見亻與專形的傳，纏左糸右複筆多，較緩相近；獨立稿首字候傅。 末字見宀加元形，同f002L c6、f003L c1、f009R c9。個別墨筆近亮。",
+      "source_bbox": [
+        419,
+        592,
+        521,
+        2406
+      ],
+      "source_image_sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 1,
+      "kind": "main-text",
+      "before": "耳陶豆毛中舖常毛種一立以胎缸入陶豆毛內四面堅補而又以常毛種",
+      "after": "耳陶豆毛中鋪常毛種一立以胎缸入陶豆毛內四面堅闐而又以常毛種",
+      "reason": "常字上方其左偏點、橫筆等較近金旁，改鋪。 源字門框中真形和f004L c09、一〇同，不見補旁。 毛後字兩處皆見禾及重，末筆長挑。獨立讀作氈，兩字候讀並記。",
+      "source_bbox": [
+        3174,
+        599,
+        3276,
+        2399
+      ],
+      "source_image_sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 4,
+      "kind": "main-text",
+      "before": "洗胎水棄汲於月空生方內用器皿等物從事率納于本房",
+      "after": "洗胎水棄汲於月空壬方所用器皿等物從事率納于本房",
+      "reason": "空下短斜頂、平橫而無生的直穿，方下可拆戶與斤形。",
+      "source_bbox": [
+        2867,
+        599,
+        2969,
+        2399
+      ],
+      "source_image_sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 6,
+      "kind": "main-text",
+      "before": "奏醫女言內宮人嚴氏夜來氣候平安喫和飯藿湯二巡而阿只氏善為吮乳",
+      "after": "奏醫女言內宮人嚴氏夜來氣候平安喫和飯灌湯二巡而阿只氏善為吮乳",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        2663,
+        599,
+        2765,
+        2399
+      ],
+      "source_image_sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 5,
+      "kind": "main-text",
+      "before": "奏醫女言內貴人氣候夜來一向平安喫和飯藿湯一巡而阿只氏善為吮乳",
+      "after": "奏醫女言內貴人氣候夜來一向平安喫和飯灌湯一巡而阿只氏善為吮乳",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        1138,
+        592,
+        1239,
+        2394
+      ],
+      "source_image_sha256": "cd15b045257a29cb8d628da8f12884c2ed0499a57a0fa2d84d53e6cffc23b273",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 9,
+      "kind": "main-text",
+      "before": "奏醫女言內貴人氣候平安喫和飯藿湯一巡而阿只氏善為吮乳而二次大便",
+      "after": "奏醫女言內貴人氣候平安喫和飯灌湯一巡而阿只氏善為吮乳而二次大便",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        732,
+        592,
+        833,
+        2394
+      ],
+      "source_image_sha256": "cd15b045257a29cb8d628da8f12884c2ed0499a57a0fa2d84d53e6cffc23b273",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 13,
+      "kind": "main-text",
+      "before": "奏醫女言內貴人氣候一向喫和飯藿湯一巡阿只氏三次吮乳一次大便眠睡亦",
+      "after": "奏醫女言內貴人氣候一向喫和飯灌湯一巡阿只氏三次吮乳一次大便眠睡亦",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        326,
+        592,
+        428,
+        2394
+      ],
+      "source_image_sha256": "cd15b045257a29cb8d628da8f12884c2ed0499a57a0fa2d84d53e6cffc23b273",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 2,
+      "kind": "main-text",
+      "before": "賜饋",
+      "after": "賜饌",
+      "reason": "次字食旁及右上巽形有兩個折框，與 f007R c11互證。",
+      "source_bbox": [
+        3060,
+        577,
+        3162,
+        2399
+      ],
+      "source_image_sha256": "cd15b045257a29cb8d628da8f12884c2ed0499a57a0fa2d84d53e6cffc23b273",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 5,
+      "kind": "main-text",
+      "before": "奏醫女言內貴人嚴氏夜來氣候平安喫和飯藿湯二巡阿只氏善為吮乳大",
+      "after": "奏醫女言內貴人嚴氏夜來氣候平安喫和飯灌湯二巡阿只氏善為吮乳大",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        2755,
+        577,
+        2857,
+        2399
+      ],
+      "source_image_sha256": "cd15b045257a29cb8d628da8f12884c2ed0499a57a0fa2d84d53e6cffc23b273",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 14,
+      "kind": "main-text",
+      "before": "奏醫女言內貴人氣候平安喫和飯藿湯一巡阿只氏吮乳眠睡亦為安穩之意詮",
+      "after": "奏醫女言內貴人氣候平安喫和飯灌湯一巡阿只氏吮乳眠睡亦為安穩之意詮",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        1838,
+        577,
+        1940,
+        2399
+      ],
+      "source_image_sha256": "cd15b045257a29cb8d628da8f12884c2ed0499a57a0fa2d84d53e6cffc23b273",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 4,
+      "kind": "main-text",
+      "before": "奏醫女言內貴人氣候與朝一樣喫和飯藿湯二巡而阿只氏善為吮乳大小便",
+      "after": "奏醫女言內貴人氣候與朝一樣喫和飯灌湯二巡而阿只氏善為吮乳大小便",
+      "reason": "和飯下見左側連點水旁、右部近雚；依底本採灌。館方解題用藿，僅作對照。",
+      "source_bbox": [
+        1235,
+        599,
+        1335,
+        2397
+      ],
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 5,
+      "kind": "main-text",
+      "before": "調順眠睡亦安穩之意詮次書　奏",
+      "after": "調順眠睡亦為安穩之意詮次書　奏",
+      "reason": "安前在一筆距內另有爲草形，漏字補回。",
+      "source_bbox": [
+        1134,
+        599,
+        1235,
+        2397
+      ],
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 12,
+      "kind": "main-text",
+      "before": "命正銀八十兩命紬十疋命紬十疋命紬黃絲十斤命白米一百斗分十帒",
+      "after": "命正銀八十兩命絹十疋命紬十疋命紬黃絮十斤命白米一百斗分十帒",
+      "reason": "糸旁下的右部口小框和月形有兩段，與同欄後紬字異。 黃下可見上半分左短折、右口、下糸，候絮、絲、綠；暫採絮。",
+      "source_bbox": [
+        432,
+        599,
+        533,
+        2397
+      ],
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 6,
+      "kind": "main-text",
+      "before": "未時童阿只氏臍帶脫下後古例有雲母膏付貼然今番則只以雪綿子緊",
+      "after": "未時量阿只氏臍帶脫下後古例有雲母膏付貼然今番則只以雪綿子緊",
+      "reason": "未時後原形上為日和橫，下底里，改量。",
+      "source_bbox": [
+        2657,
+        592,
+        2758,
+        2399
+      ],
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 11,
+      "kind": "main-text",
+      "before": "賜饋",
+      "after": "賜饌",
+      "reason": "次字右側折框與下底共形為巽，同f006R c2。",
+      "source_bbox": [
+        2153,
+        592,
+        2254,
+        2399
+      ],
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 1,
+      "kind": "main-text",
+      "before": "軍二名　內吹六名依例舉行今番則進而不依進發程路自錫類門宣",
+      "after": "軍二名　內吹六名依例舉行今番則進而不作進發程路自錫類門宣",
+      "reason": "人旁的右部近乍，和本欄前處的依有異。",
+      "source_bbox": [
+        1546,
+        589,
+        1648,
+        2397
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 2,
+      "kind": "main-text",
+      "before": "陽門新建木柵門銀行所前路貞洞明禮宮前路紛帥洞黃土峴惠政橋把子廛",
+      "after": "陽門新建木柵門銀行所前路貞洞明禮宮前路□帥洞黃土峴惠政橋把子廛",
+      "reason": "洞前「帥」架仍可辨，其前字左部交錯，紛或從；地名尚待其他底本互證。",
+      "source_bbox": [
+        1445,
+        589,
+        1546,
+        2397
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 3,
+      "kind": "main-text",
+      "before": "石橋敦化門前路金虎門進善門肅章門建陽門銅龍門景化門集禮門崇",
+      "after": "石橋敦化門前路金虎門進善門肅章門達陽門銅龍門景化門集禮門崇",
+      "reason": "陽門前為上多橫、下走之，獨立稿與圖均較近達。",
+      "source_bbox": [
+        1344,
+        589,
+        1445,
+        2397
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 6,
+      "kind": "main-text",
+      "before": "美飯分排　羹一盒飯一盒",
+      "after": "羹飯分排　羹一盒　飯一盒",
+      "reason": "首字上部疊筆且較長，與下文同樣兩個相近形，原用羹義；字體亦近美的省筆。 兩物目間源圖有一格較寬字隙，保留分隔。",
+      "source_bbox": [
+        1041,
+        589,
+        1142,
+        2397
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 13,
+      "kind": "main-text",
+      "before": "十月十五日即三七日也其時羹飯與米藿分排",
+      "after": "十月十五日即三七日也其時羹飯與米灌分排",
+      "reason": "米下字與和飯灌湯所見氵及雚形近。",
+      "source_bbox": [
+        333,
+        589,
+        434,
+        2397
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 1,
+      "kind": "main-text",
+      "before": "塗朱兩木二坐塗朱大板子五立香案一坐高足床畫邊油紙六張四兩黃",
+      "after": "塗朱馬木二坐塗朱大板子五立香案一坐高足床畫邊油紙六張四兩黃",
+      "reason": "朱後見馬的三橫與下尾數點，並非框兩。",
+      "source_bbox": [
+        3167,
+        597,
+        3269,
+        2399
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 6,
+      "kind": "main-text",
+      "before": "封裹次紅鄕縷三甲所　負函次紅綿縷三甲所　封裹後覆函次紅紬五幅袱",
+      "after": "封裹次紅鄕綠三甲所　負函次紅綿綠三甲所　封裹後覆函次紅紬五幅袱",
+      "reason": "尾字左糸右彔樣，不見婁的下女，改綠。 尾字右部細筆與本欄第一個綠近同。",
+      "source_bbox": [
+        2657,
+        597,
+        2759,
+        2399
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 12,
+      "kind": "main-text",
+      "before": "安胎中使金圭復從事官崔錫斗清道警務官貳員奏時官一員相土官",
+      "after": "安胎中使金圭復從事官崔錫斗清道警務官員二員奏時官一員相土官",
+      "reason": "官後框及二橫是兩個不同字位，次有員。",
+      "source_bbox": [
+        2045,
+        597,
+        2147,
+        2399
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 13,
+      "kind": "main-text",
+      "before": "一員別監一人看役書員二人陪胎書員一人武監六人奉　胎缸安于函盛于",
+      "after": "一員別監一人看役書員一人陪胎書員一人武監六人奉　胎缸安于函盛于",
+      "reason": "員下僅一筆「一」，與附近兩筆二對照。",
+      "source_bbox": [
+        1943,
+        597,
+        2045,
+        2399
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 14,
+      "kind": "main-text",
+      "before": "樓子擔持軍四名　沙炬六柄　奉炬軍六名奉樓子軍四名扶擔",
+      "after": "樓子擔持軍四名　望炬六柄　奉炬軍六名奉樓子軍四名扶□",
+      "reason": "炬前見亡月王的合略架，與沙三點水形不同。 末字見一短小左折及較繁右部，候擔、曳；不以官署職掌強補。",
+      "source_bbox": [
+        1841,
+        597,
+        1943,
+        2399
+      ],
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 6,
+      "kind": "main-text",
+      "before": "直一名飯工一名水工二名各布一疋　賜給從事官房使令二名房直一名飯工",
+      "after": "直一名飯工一名水工一名各布一疋　賜給從事官房使令二名房直一名飯工",
+      "reason": "名上一橫拖長，沒有二畫。",
+      "source_bbox": [
+        2663,
+        577,
+        2765,
+        2399
+      ],
+      "source_image_sha256": "e6ea3da6db1e5b0f31a136d268964068ccc08ac6cbadfdfd03bfa638bf04d843",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144107361"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 12,
+      "kind": "main-text",
+      "before": "一疋待令雇員朴胤錫趙衡鎮池殷錫各木一疋醫女竹葉真香各綿紬一",
+      "after": "一疋待令雇員朴胤錫趙衡鎭池殷錫各木一疋醫女竹葉真香各綿紬一",
+      "reason": "右半真寫爲眞形而非真，保留鎭。",
+      "source_bbox": [
+        2050,
+        577,
+        2152,
+        2399
+      ],
+      "source_image_sha256": "e6ea3da6db1e5b0f31a136d268964068ccc08ac6cbadfdfd03bfa638bf04d843",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144107361"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 13,
+      "kind": "main-text",
+      "before": "疋木一疋木一疋　賜給抄奴金永順使令趙元俊成福龍各木一疋待令使令二",
+      "after": "白木一疋木一疋　賜給抄奴金永順使令趙元俊成福龍各木一疋待令使令二",
+      "reason": "首字可見白畫；前欄末已有一字，再接白木。 首字圖內不明顯小口，作成；另讀咸，與名簿尚待互證。",
+      "source_bbox": [
+        1948,
+        577,
+        2050,
+        2399
+      ],
+      "source_image_sha256": "e6ea3da6db1e5b0f31a136d268964068ccc08ac6cbadfdfd03bfa638bf04d843",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144107361"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 14,
+      "kind": "main-text",
+      "before": "名軍士英到基永待令軍士三名童便軍士二名各布一疋　賜給",
+      "after": "名軍士英釗基永待令軍士三名童便軍士二名各布一疋　賜給",
+      "reason": "次字右刀可辨，左下二點支持金旁，採釗，人物分隔仍待參考同本姓名。",
+      "source_bbox": [
+        1846,
+        577,
+        1948,
+        2399
+      ],
+      "source_image_sha256": "e6ea3da6db1e5b0f31a136d268964068ccc08ac6cbadfdfd03bfa638bf04d843",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144107361"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 1,
+      "kind": "small-note",
+      "before": "或有",
+      "after": "咸／有",
+      "reason": "庭下兩個小字右先左後，右列見戌形外筆及內小口。",
+      "note_index": 1,
+      "source_bbox": [
+        1521,
+        597,
+        1623,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 13,
+      "kind": "small-note",
+      "before": "",
+      "after": "光武元年九月二十五日",
+      "reason": "小字位於行書下方同界欄。",
+      "note_index": 1,
+      "source_bbox": [
+        298,
+        597,
+        400,
+        2401
+      ],
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 3,
+      "kind": "small-note",
+      "before": "細",
+      "after": "紬",
+      "reason": "小字右部由，與左糸組合，非田形。",
+      "note_index": 1,
+      "source_bbox": [
+        1337,
+        592,
+        1439,
+        2406
+      ],
+      "source_image_sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 10,
+      "kind": "small-note",
+      "before": "洗浴",
+      "after": "洗／浴",
+      "reason": "欄末二字是左右兩個短小直欄，分錄。",
+      "note_index": 1,
+      "source_bbox": [
+        2254,
+        599,
+        2357,
+        2399
+      ],
+      "source_image_sha256": "f0c6df9ce444ac92041a01a39e3c629494435cc7ead0672358f6f1a0d7c3ee40",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 10,
+      "kind": "small-note",
+      "before": "即一七日也辰時",
+      "after": "即一七日也／辰時",
+      "reason": "小字尾端辰時大小較高、字距清楚分段，保留同欄小字並分句，不挪入日題。",
+      "note_index": 1,
+      "source_bbox": [
+        633,
+        599,
+        733,
+        2397
+      ],
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 3,
+      "kind": "small-note",
+      "before": "朱黃麝三種",
+      "after": "參黃麝三種",
+      "reason": "第一字上部多小折、下彡，近參，候蔘；末藥名的左上有鹿形，保留麝。",
+      "note_index": 1,
+      "source_bbox": [
+        2959,
+        592,
+        3060,
+        2399
+      ],
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 9,
+      "kind": "small-note",
+      "before": "下人聽煎供",
+      "after": "下人廳煎供",
+      "reason": "人後字為廳圖形，細寫廣旁不明顯，據同冊廳字旁部仍辨。",
+      "note_index": 1,
+      "source_bbox": [
+        2354,
+        592,
+        2455,
+        2399
+      ],
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "canvas": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 2,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137",
+      "status": "保留原錄"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 11,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137",
+      "status": "保留原錄"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "status": "保留原錄"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "status": "保留原錄"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "status": "保留原錄"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "status": "保留原錄"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "status": "保留原錄"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100",
+      "status": "保留原錄"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "status": "保留原錄"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "status": "保留原錄"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "status": "保留原錄"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 11,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 2,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137",
+      "source_image_sha256": "b290ff36ba1ea433f2c8d3a7d3a1dcd960bc79d6ec678c9ecc97fe4dcf100de6",
+      "source_bbox": [
+        709,
+        594,
+        811,
+        2413
+      ],
+      "before": "奏曰湯藥雇員金龍煥劉浩榮待令醫女竹葉真香　差下何如",
+      "independent": "奏曰湯藥崔貞金龍煥劉浩榮待令醫女竹葉真香　差下何如",
+      "after": "奏曰湯藥雇員金龍煥劉浩榮待令醫女竹葉真香　差下何如",
+      "status": "保留原錄",
+      "reason": "湯藥下首字輪廓見雇形，其後近員，f003L c1與c4同詞，f009R職員分賞可互證。竹葉後見真／眞下部兩腳，初錄保留真香，館方解題另印直香。"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 11,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137",
+      "source_image_sha256": "b290ff36ba1ea433f2c8d3a7d3a1dcd960bc79d6ec678c9ecc97fe4dcf100de6",
+      "source_bbox": [
+        505,
+        594,
+        607,
+        2413
+      ],
+      "before": "前郡守李海昌兼典醫　差下仍為小兒別入直事",
+      "independent": "前郡守李海昌煎油醫　差下仍爲小兒別入直事",
+      "after": "前郡守李海昌兼典醫　差下仍為小兒別入直事",
+      "status": "保留原錄",
+      "reason": "昌後的兩個字前見兼草形、次筆近典；f009R c9見同人以別入直受賞，不改字但保存另一讀法。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "source_bbox": [
+        1521,
+        594,
+        1623,
+        2404
+      ],
+      "before": "草席次知與從事官奉出傳于護產官朴準承崔錫祐主事玄東完雇員金",
+      "independent": "草席次知與從事官奉出傳于護産官朴準承崔錫祐主事玄東完崔貞金",
+      "after": "草席次知與從事官奉出傳于護產官朴準承崔錫祐主事玄東完雇員金",
+      "status": "保留原錄",
+      "reason": "雇員詞和首日官署派員條互證，未見兩獨立人名崔貞。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "source_bbox": [
+        1317,
+        594,
+        1419,
+        2404
+      ],
+      "before": "事官本房供饋司鑰別監飯監閤監廳供饋　護產廳小兒待令主事醫女",
+      "independent": "事官本房供饋引鑰別監飯監閤監廳供饋　護産廳小兒待令主事醫女",
+      "after": "事官本房供饋司鑰別監飯監閤監廳供饋　護產廳小兒待令主事醫女",
+      "status": "保留原錄",
+      "reason": "饋後的首字只有司形撇鉤；後字的金旁及筆畫細，盲稿另讀引鑰，現留初錄。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "source_bbox": [
+        1215,
+        594,
+        1317,
+        2404
+      ],
+      "before": "本房供饋雇員使令軍士閤監廳供饋",
+      "independent": "本房供饋崔貞使令軍士閤監廳供饋",
+      "after": "本房供饋雇員使令軍士閤監廳供饋",
+      "status": "保留原錄",
+      "reason": "供饋後近雇員，首日同職名及末日賞格支持。"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "source_bbox": [
+        602,
+        594,
+        704,
+        2404
+      ],
+      "before": "護產廳書　申時",
+      "independent": "護産廳書",
+      "after": "護產廳書　申時",
+      "status": "保留原錄",
+      "reason": "申時的低書位置另見時刻同欄例，留於同欄的定位分隔。"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
+      "source_image_sha256": "c711ef390bb4ed77ca0196300091b1a911078a7973aeab14359822967b55b1b3",
+      "source_bbox": [
+        3074,
+        587,
+        3178,
+        2406
+      ],
+      "before": "太子宮單子問　安　答曰知道",
+      "independent": "太　子宮單子問　安　答曰知道",
+      "after": "太子宮單子問　安　答曰知道",
+      "status": "保留原錄",
+      "reason": "太與子之間行款寬，首錄只錄語詞分隔，不量化未明空格。"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100",
+      "source_image_sha256": "4cf9c20672050a5e29d45f39cdde7e2c1e8c2d28b374bb1eecd190991e372a2f",
+      "source_bbox": [
+        633,
+        599,
+        733,
+        2397
+      ],
+      "before": "○光武元年丁酉十月初一日丁巳晴",
+      "independent": "○光武元年丁酉十月初一日丁巳晴　辰時",
+      "after": "○光武元年丁酉十月初一日丁巳晴",
+      "status": "保留原錄",
+      "reason": "日題晴後小字另行，辰時筆架較長，仍置同欄次行，並保持陰曆原記。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "source_bbox": [
+        2963,
+        597,
+        3065,
+        2399
+      ],
+      "before": "箸一部沈香捲草入盛全漆函一坐白紋九張付地衣一浮拜席二立",
+      "independent": "箸一部沈香捲草入盛全漆圓一坐白紋九張付地衣一浮拜席二立",
+      "after": "箸一部沈香捲草入盛全漆函一坐白紋九張付地衣一浮拜席二立",
+      "status": "保留原錄",
+      "reason": "同物多見分寫函樣。此處外廓近完整囗，函、圓候讀保留。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "source_bbox": [
+        2759,
+        597,
+        2861,
+        2399
+      ],
+      "before": "捲草初裹次白苧帒　再裹次紅紬長三尺二幅袱　函外裹次紅紬六幅袱",
+      "independent": "捲草初裹次白苧帒　再裹次紅紬長三尺二幅袱　匣外裹次紅紬六幅袱",
+      "after": "捲草初裹次白苧帒　再裹次紅紬長三尺二幅袱　函外裹次紅紬六幅袱",
+      "status": "保留原錄",
+      "reason": "形見下框凵及內位筆畫，與本冊其他函樣相近；獨立讀匣。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
+      "source_image_sha256": "e8467c6d2af86a42ba6842b08ad1d2a0660674aed583df6337e60163418f9b6f",
+      "source_bbox": [
+        2453,
+        597,
+        2555,
+        2399
+      ],
+      "before": "捲草行禮于肅雍齋大廳排設舉行而獻官朴準承為之行祭後捲草函護",
+      "independent": "捲草行禮于肅雍齋大廳排設舉行而獻官朴準承為之行祭後捲草匣護",
+      "after": "捲草行禮于肅雍齋大廳排設舉行而獻官朴準承為之行祭後捲草函護",
+      "status": "保留原錄",
+      "reason": "夾在草與護之間的字下方外廓往右，初錄留函，匣列候。"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 11,
+      "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820",
+      "source_image_sha256": "0269db4966081d52d09c3f54be9f76dc50aeaca055a98fd8bb771889a5bdfb1f",
+      "source_bbox": [
+        2138,
+        592,
+        2242,
+        2401
+      ],
+      "before": "貫缸四耳及蓋丁四穴自　內封標出送則　等與次知內官眼同依例舉行之意",
+      "independent": "貫缸四耳及蓋丁四穴自　內封標出送則等與次知內官眼同依例擧行之意",
+      "after": "貫缸四耳及蓋丁四穴自　內封標出送則　等與次知內官眼同依例舉行之意",
+      "status": "保留疑讀",
+      "reason": "兩次讀法尚有異，暫保留原錄與另讀；請依館方同欄續核。"
+    }
+  ]
+}

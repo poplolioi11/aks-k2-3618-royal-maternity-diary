@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -364,7 +364,7 @@
               <seg type="diplomatic-text">護產廳書</seg>
             </ab>
             <ab type="column" n="7" xml:id="f03-r-c07" facs="#f03-r-c07-region">
-              <seg type="diplomatic-text">奏醫女言內宮人嚴氏分娩後氣候連為平安以和飯藿湯三巡而新生阿只氏善</seg>
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏分娩後氣候連為平安以和飯灌湯三巡而新生阿只氏善</seg>
             </ab>
             <ab type="column" n="8" xml:id="f03-r-c08" facs="#f03-r-c08-region">
               <seg type="diplomatic-text">為吮乳且放糞氣息安穩之意詮次書　奏</seg>
@@ -413,7 +413,7 @@
               <seg type="diplomatic-text">護產廳書</seg>
             </ab>
             <ab type="column" n="6" xml:id="f03-l-c06" facs="#f03-l-c06-region">
-              <seg type="diplomatic-text">奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯一巡阿只氏善為吮乳眠睡連</seg>
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏氣候與朝一樣喫和飯灌湯一巡阿只氏善為吮乳眠睡連</seg>
             </ab>
             <ab type="column" n="7" xml:id="f03-l-c07" facs="#f03-l-c07-region">
               <seg type="diplomatic-text">為安穩之意詮次書　奏</seg>
@@ -422,13 +422,13 @@
               <seg type="diplomatic-text">答曰知道</seg>
             </ab>
             <ab type="column" n="9" xml:id="f03-l-c09" facs="#f03-l-c09-region">
-              <seg type="diplomatic-text">羌古道魚五箇醫女竹葉真香　入之從事官　捧入</seg>
+              <seg type="diplomatic-text">□古道魚五箇醫女竹葉真香　入之從事官　捧入</seg>
             </ab>
             <ab type="column" n="10" xml:id="f03-l-c10" facs="#f03-l-c10-region">
               <seg type="diplomatic-text">護產廳書　申時</seg>
             </ab>
             <ab type="column" n="11" xml:id="f03-l-c11" facs="#f03-l-c11-region">
-              <seg type="diplomatic-text">奏醫女言內宮人嚴氏諸節一向平安喫和飯藿湯三巡阿只氏善為吮乳眠</seg>
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏諸節一向平安喫和飯灌湯三巡阿只氏善為吮乳眠</seg>
             </ab>
             <ab type="column" n="12" xml:id="f03-l-c12" facs="#f03-l-c12-region">
               <seg type="diplomatic-text">睡連穩之意詮次書　奏</seg>
@@ -445,13 +445,13 @@
         <div n="4" type="scan" subtype="diary">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f04-r-c01" facs="#f04-r-c01-region">
-              <seg type="diplomatic-text">奏明日乃是宮人嚴氏分娩後第三日也洗浴吉時令日官推擇則宮人嚴氏</seg>
+              <seg type="diplomatic-text">奏明日乃是宮人嚴氏分娩後第三日也洗浴吉時今日官推擇則宮人嚴氏</seg>
             </ab>
             <ab type="column" n="2" xml:id="f04-r-c02" facs="#f04-r-c02-region">
               <seg type="diplomatic-text">洗浴吉時今月二十七日巳時阿只氏洗浴吉時同日申時洗胎吉時同日卯</seg>
             </ab>
             <ab type="column" n="3" xml:id="f04-r-c03" facs="#f04-r-c03-region">
-              <seg type="diplomatic-text">時為吉云洗胎水當取月德丙方水用之矣竊伏念當此洗胎日氣稍寒恐</seg>
+              <seg type="diplomatic-text">時為吉云洗胎水當取月德丙方水用之矣□伏念當此洗胎日氣稍寒恐</seg>
             </ab>
             <ab type="column" n="4" xml:id="f04-r-c04" facs="#f04-r-c04-region">
               <seg type="diplomatic-text">不無勞動感傷之慮似當十分謹慎而阿只氏洗浴尤不可無致慮但用手巾</seg>
@@ -469,7 +469,7 @@
               <seg type="diplomatic-text">護產廳書</seg>
             </ab>
             <ab type="column" n="9" xml:id="f04-r-c09" facs="#f04-r-c09-region">
-              <seg type="diplomatic-text">奏洗胎水取月德丙方令醫女洗百度後以酒更洗古銅錢一箇以字面先入內胎缸棺</seg>
+              <seg type="diplomatic-text">奏洗胎水取月德丙方令醫女洗百度後以酒更洗古銅錢一箇以字面先入內胎缸底</seg>
             </ab>
             <ab type="column" n="10" xml:id="f04-r-c10" facs="#f04-r-c10-region">
               <seg type="diplomatic-text">中次入洗胎以油紙藍綿紬覆缸口以紅纓子結封自　內封標覆缸蓋以紅纓子</seg>
@@ -494,10 +494,13 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f04-l-c01" facs="#f04-l-c01-region">
-              <seg type="diplomatic-text">洗胎次月德丙方水于正汲取時仁化門請留排黻四坐于肅雍齋北庭</seg>
-              <note type="source-note" n="28">
+              <seg type="diplomatic-text">洗胎次月德丙方水子正汲取時仁化門請留排甕四坐于肅雍齋北庭</seg>
+              <note type="source-note" n="unknown">
                 <seg type="note-line" n="1">
-                  <seg type="diplomatic-text">或有</seg>
+                  <seg type="diplomatic-text">咸</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">有</seg>
                 </seg>
               </note>
             </ab>
@@ -516,10 +519,10 @@
               <seg type="diplomatic-text">洗胎時卯正初刻自禁漏奏時後</seg>
             </ab>
             <ab type="column" n="4" xml:id="f04-l-c04" facs="#f04-l-c04-region">
-              <seg type="diplomatic-text">護產官主事以黑團領率員役入就肅雍齋後庭與次知從事官序立醫女</seg>
+              <seg type="diplomatic-text">護產官主事以黑團領率貟役入就肅雍齋後庭與次知從事官序立醫女</seg>
             </ab>
             <ab type="column" n="5" xml:id="f04-l-c05" facs="#f04-l-c05-region">
-              <seg type="diplomatic-text">竹葉真香奉出胎缸移盛于陶所羅注丙方水洗之洗胎水移盛另排罐內</seg>
+              <seg type="diplomatic-text">竹葉真香奉出胎缸移盛于陶所羅注丙方水洗之洗胎水移盛另排甕內</seg>
             </ab>
             <ab type="column" n="6" xml:id="f04-l-c06" facs="#f04-l-c06-region">
               <seg type="diplomatic-text">洗百度後以香醞酒更洗而古銅錢一箇　以字面先入白缸底中央仍</seg>
@@ -539,19 +542,24 @@
               <seg type="diplomatic-text">纓子貫缸四耳及蓋丁四穴結封自　內封標出送後先於外白缸底藉以</seg>
             </ab>
             <ab type="column" n="9" xml:id="f04-l-c09" facs="#f04-l-c09-region">
-              <seg type="diplomatic-text">白綿花以白缸入於外白缸中以白綿花堅補齊缸口以草注紙覆綿花上</seg>
+              <seg type="diplomatic-text">白綿花以白缸入於外白缸中以白綿花堅闐齊缸口以草注紙覆綿花上</seg>
             </ab>
             <ab type="column" n="10" xml:id="f04-l-c10" facs="#f04-l-c10-region">
-              <seg type="diplomatic-text">堅補勿動又以白綿花厚覆紙上甘糖作泥如缸口圓切比缸口四面剰一</seg>
+              <seg type="diplomatic-text">堅闐勿動又以白綿花厚覆紙上甘糖作尼如缸口圓切比缸口四面剩一</seg>
             </ab>
             <ab type="column" n="11" xml:id="f04-l-c11" facs="#f04-l-c11-region">
               <seg type="diplomatic-text">指許焙於火上待其柔和覆缸蓋以紅纓子貫缸四耳及蓋丁四穴二甲結</seg>
             </ab>
             <ab type="column" n="12" xml:id="f04-l-c12" facs="#f04-l-c12-region">
-              <seg type="diplomatic-text">封書次知中官姓　護產醫官姓姓名而并着署懸紅木牌於蓋丁上前面以護</seg>
+              <seg type="diplomatic-text">封書次知中官姓　護產醫官姓而并着署懸紅木牌於蓋丁上前面以護</seg>
             </ab>
             <ab type="column" n="13" xml:id="f04-l-c13" facs="#f04-l-c13-region">
-              <seg type="diplomatic-text">行書　光武元年九月二十五日</seg>
+              <seg type="diplomatic-text">行書</seg>
+              <note type="source-note" n="unknown">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">光武元年九月二十五日</seg>
+                </seg>
+              </note>
             </ab>
             <ab type="column" n="14" xml:id="f04-l-c14" facs="#f04-l-c14-region">
               <seg type="diplomatic-text">宮人嚴氏順生男阿只氏胎後面列書次知內官姓名護產醫官姓名後四</seg>
@@ -562,7 +570,7 @@
         <div n="5" type="scan" subtype="diary">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f05-r-c01" facs="#f05-r-c01-region">
-              <seg type="diplomatic-text">耳陶豆毛中舖常毛種一立以胎缸入陶豆毛內四面堅補而又以常毛種</seg>
+              <seg type="diplomatic-text">耳陶豆毛中鋪常毛種一立以胎缸入陶豆毛內四面堅闐而又以常毛種</seg>
             </ab>
             <ab type="column" n="2" xml:id="f05-r-c02" facs="#f05-r-c02-region">
               <seg type="diplomatic-text">覆之後覆蓋以紅纓子貫豆毛四耳及蓋丁四穴十字結封書謹封次知內</seg>
@@ -571,13 +579,13 @@
               <seg type="diplomatic-text">官着署醫女奉納于　內次知從事官奉納于產室安于月德丙方</seg>
             </ab>
             <ab type="column" n="4" xml:id="f05-r-c04" facs="#f05-r-c04-region">
-              <seg type="diplomatic-text">洗胎水棄汲於月空生方內用器皿等物從事率納于本房</seg>
+              <seg type="diplomatic-text">洗胎水棄汲於月空壬方所用器皿等物從事率納于本房</seg>
             </ab>
             <ab type="column" n="5" xml:id="f05-r-c05" facs="#f05-r-c05-region">
               <seg type="diplomatic-text">護產廳書　辰時</seg>
             </ab>
             <ab type="column" n="6" xml:id="f05-r-c06" facs="#f05-r-c06-region">
-              <seg type="diplomatic-text">奏醫女言內宮人嚴氏夜來氣候平安喫和飯藿湯二巡而阿只氏善為吮乳</seg>
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏夜來氣候平安喫和飯灌湯二巡而阿只氏善為吮乳</seg>
             </ab>
             <ab type="column" n="7" xml:id="f05-r-c07" facs="#f05-r-c07-region">
               <seg type="diplomatic-text">大小便調順眠睡亦安穩之意詮次書　奏</seg>
@@ -592,7 +600,10 @@
               <seg type="diplomatic-text">洗浴次陳艾湯水一鍮東海手巾次白正布白苧布各三尺陳艾二編入之</seg>
               <note type="source-note" n="29">
                 <seg type="note-line" n="1">
-                  <seg type="diplomatic-text">洗浴</seg>
+                  <seg type="diplomatic-text">洗</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">浴</seg>
                 </seg>
               </note>
             </ab>
@@ -628,7 +639,7 @@
               <seg type="diplomatic-text">奏阿只氏臍帶解脫即為付貼次雲母膏一鍾子及藍綿一尺封入之意詮次書</seg>
               <note type="source-note" n="unknown">
                 <seg type="note-line" n="1">
-                  <seg type="diplomatic-text">細</seg>
+                  <seg type="diplomatic-text">紬</seg>
                 </seg>
               </note>
             </ab>
@@ -639,7 +650,7 @@
               <seg type="diplomatic-text">答曰知道</seg>
             </ab>
             <ab type="column" n="6" xml:id="f05-l-c06" facs="#f05-l-c06-region">
-              <seg type="diplomatic-text">阿只氏洗浴次李根桃根梅根煎水席頭骨煎水和豬膽汁一鍮大也入之從</seg>
+              <seg type="diplomatic-text">阿只氏洗浴次李根桃根梅根煎水席頭骨煎水和猪膽汁一鍮大也入之從</seg>
             </ab>
             <ab type="column" n="7" xml:id="f05-l-c07" facs="#f05-l-c07-region">
               <seg type="diplomatic-text">事官　捧入</seg>
@@ -648,7 +659,7 @@
               <seg type="diplomatic-text">護產廳書　申時</seg>
             </ab>
             <ab type="column" n="9" xml:id="f05-l-c09" facs="#f05-l-c09-region">
-              <seg type="diplomatic-text">奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯二巡阿只氏善為吮乳洗</seg>
+              <seg type="diplomatic-text">奏醫女言內宮人嚴氏氣候與朝一樣喫和飯灌湯二巡阿只氏善為吮乳洗</seg>
             </ab>
             <ab type="column" n="10" xml:id="f05-l-c10" facs="#f05-l-c10-region">
               <seg type="diplomatic-text">浴亦為安穩之意詮次書　奏</seg>
@@ -657,7 +668,7 @@
               <seg type="diplomatic-text">答曰知道</seg>
             </ab>
             <ab type="column" n="12" xml:id="f05-l-c12" facs="#f05-l-c12-region">
-              <seg type="diplomatic-text">傳緩次塊石雄黃塊鏡面各一兩重主事玄東完　入之捧入</seg>
+              <seg type="diplomatic-text">傳纏次塊石雄黃塊鏡面各一兩重主事玄東完　入之捧入</seg>
             </ab>
             <ab type="column" n="13" xml:id="f05-l-c13" facs="#f05-l-c13-region">
               <seg type="diplomatic-text">同日酉時</seg>
@@ -674,7 +685,7 @@
               <seg type="diplomatic-text">護產廳次知從事官護產官小兒醫主事及雇員醫女使令軍士并</seg>
             </ab>
             <ab type="column" n="2" xml:id="f06-r-c02" facs="#f06-r-c02-region">
-              <seg type="diplomatic-text">賜饋</seg>
+              <seg type="diplomatic-text">賜饌</seg>
             </ab>
             <ab type="column" n="3" xml:id="f06-r-c03" facs="#f06-r-c03-region">
               <seg type="diplomatic-text">○光武元年丁酉九月二十八日甲寅曉雨辰時</seg>
@@ -683,7 +694,7 @@
               <seg type="diplomatic-text">護產廳書</seg>
             </ab>
             <ab type="column" n="5" xml:id="f06-r-c05" facs="#f06-r-c05-region">
-              <seg type="diplomatic-text">奏醫女言內貴人嚴氏夜來氣候平安喫和飯藿湯二巡阿只氏善為吮乳大</seg>
+              <seg type="diplomatic-text">奏醫女言內貴人嚴氏夜來氣候平安喫和飯灌湯二巡阿只氏善為吮乳大</seg>
             </ab>
             <ab type="column" n="6" xml:id="f06-r-c06" facs="#f06-r-c06-region">
               <seg type="diplomatic-text">小便調順眠睡亦為安穩之意詮次書　奏</seg>
@@ -710,7 +721,7 @@
               <seg type="diplomatic-text">護產廳書　申時</seg>
             </ab>
             <ab type="column" n="14" xml:id="f06-r-c14" facs="#f06-r-c14-region">
-              <seg type="diplomatic-text">奏醫女言內貴人氣候平安喫和飯藿湯一巡阿只氏吮乳眠睡亦為安穩之意詮</seg>
+              <seg type="diplomatic-text">奏醫女言內貴人氣候平安喫和飯灌湯一巡阿只氏吮乳眠睡亦為安穩之意詮</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -727,7 +738,7 @@
               <seg type="diplomatic-text">護產廳書</seg>
             </ab>
             <ab type="column" n="5" xml:id="f06-l-c05" facs="#f06-l-c05-region">
-              <seg type="diplomatic-text">奏醫女言內貴人氣候夜來一向平安喫和飯藿湯一巡而阿只氏善為吮乳</seg>
+              <seg type="diplomatic-text">奏醫女言內貴人氣候夜來一向平安喫和飯灌湯一巡而阿只氏善為吮乳</seg>
             </ab>
             <ab type="column" n="6" xml:id="f06-l-c06" facs="#f06-l-c06-region">
               <seg type="diplomatic-text">大小便調順眠睡亦為安穩之意詮次書　奏</seg>
@@ -739,7 +750,7 @@
               <seg type="diplomatic-text">護產廳書　午時</seg>
             </ab>
             <ab type="column" n="9" xml:id="f06-l-c09" facs="#f06-l-c09-region">
-              <seg type="diplomatic-text">奏醫女言內貴人氣候平安喫和飯藿湯一巡而阿只氏善為吮乳而二次大便</seg>
+              <seg type="diplomatic-text">奏醫女言內貴人氣候平安喫和飯灌湯一巡而阿只氏善為吮乳而二次大便</seg>
             </ab>
             <ab type="column" n="10" xml:id="f06-l-c10" facs="#f06-l-c10-region">
               <seg type="diplomatic-text">一次小便眠睡亦為安穩之意詮次書　奏</seg>
@@ -751,7 +762,7 @@
               <seg type="diplomatic-text">護產廳書　申時</seg>
             </ab>
             <ab type="column" n="13" xml:id="f06-l-c13" facs="#f06-l-c13-region">
-              <seg type="diplomatic-text">奏醫女言內貴人氣候一向喫和飯藿湯一巡阿只氏三次吮乳一次大便眠睡亦</seg>
+              <seg type="diplomatic-text">奏醫女言內貴人氣候一向喫和飯灌湯一巡阿只氏三次吮乳一次大便眠睡亦</seg>
             </ab>
             <ab type="column" n="14" xml:id="f06-l-c14" facs="#f06-l-c14-region">
               <seg type="diplomatic-text">為安穩之意詮次書　奏</seg>
@@ -771,7 +782,7 @@
               <seg type="diplomatic-text">依例製　入</seg>
               <note type="source-note" n="unknown">
                 <seg type="note-line" n="1">
-                  <seg type="diplomatic-text">朱黃麝三種</seg>
+                  <seg type="diplomatic-text">參黃麝三種</seg>
                 </seg>
               </note>
             </ab>
@@ -782,7 +793,7 @@
               <seg type="diplomatic-text">勅</seg>
             </ab>
             <ab type="column" n="6" xml:id="f07-r-c06" facs="#f07-r-c06-region">
-              <seg type="diplomatic-text">未時童阿只氏臍帶脫下後古例有雲母膏付貼然今番則只以雪綿子緊</seg>
+              <seg type="diplomatic-text">未時量阿只氏臍帶脫下後古例有雲母膏付貼然今番則只以雪綿子緊</seg>
             </ab>
             <ab type="column" n="7" xml:id="f07-r-c07" facs="#f07-r-c07-region">
               <seg type="diplomatic-text">貼之意微　稟</seg>
@@ -794,7 +805,7 @@
               <seg type="diplomatic-text">貴人有微滯感服查陳湯二貼</seg>
               <note type="source-note" n="12">
                 <seg type="note-line" n="1">
-                  <seg type="diplomatic-text">下人聽煎供</seg>
+                  <seg type="diplomatic-text">下人廳煎供</seg>
                 </seg>
               </note>
             </ab>
@@ -802,7 +813,7 @@
               <seg type="diplomatic-text">次知從事官護產官小兒醫主事及雇員醫女使令軍士并</seg>
             </ab>
             <ab type="column" n="11" xml:id="f07-r-c11" facs="#f07-r-c11-region">
-              <seg type="diplomatic-text">賜饋</seg>
+              <seg type="diplomatic-text">賜饌</seg>
             </ab>
             <ab type="column" n="12" xml:id="f07-r-c12" facs="#f07-r-c12-region">
               <seg type="diplomatic-text">○光武元年丁酉九月三十日丙辰晴吹西風辰時</seg>
@@ -825,10 +836,10 @@
               <seg type="diplomatic-text">護產廳書　午時</seg>
             </ab>
             <ab type="column" n="4" xml:id="f07-l-c04" facs="#f07-l-c04-region">
-              <seg type="diplomatic-text">奏醫女言內貴人氣候與朝一樣喫和飯藿湯二巡而阿只氏善為吮乳大小便</seg>
+              <seg type="diplomatic-text">奏醫女言內貴人氣候與朝一樣喫和飯灌湯二巡而阿只氏善為吮乳大小便</seg>
             </ab>
             <ab type="column" n="5" xml:id="f07-l-c05" facs="#f07-l-c05-region">
-              <seg type="diplomatic-text">調順眠睡亦安穩之意詮次書　奏</seg>
+              <seg type="diplomatic-text">調順眠睡亦為安穩之意詮次書　奏</seg>
             </ab>
             <ab type="column" n="6" xml:id="f07-l-c06" facs="#f07-l-c06-region">
               <seg type="diplomatic-text">答曰知道</seg>
@@ -846,7 +857,10 @@
               <seg type="diplomatic-text">○光武元年丁酉十月初一日丁巳晴</seg>
               <note type="source-note" n="15">
                 <seg type="note-line" n="1">
-                  <seg type="diplomatic-text">即一七日也辰時</seg>
+                  <seg type="diplomatic-text">即一七日也</seg>
+                </seg>
+                <seg type="note-line" n="2">
+                  <seg type="diplomatic-text">辰時</seg>
                 </seg>
               </note>
             </ab>
@@ -854,7 +868,7 @@
               <seg type="diplomatic-text">捲草祭物</seg>
             </ab>
             <ab type="column" n="12" xml:id="f07-l-c12" facs="#f07-l-c12-region">
-              <seg type="diplomatic-text">命正銀八十兩命紬十疋命紬十疋命紬黃絲十斤命白米一百斗分十帒</seg>
+              <seg type="diplomatic-text">命正銀八十兩命絹十疋命紬十疋命紬黃絮十斤命白米一百斗分十帒</seg>
             </ab>
             <ab type="column" n="13" xml:id="f07-l-c13" facs="#f07-l-c13-region">
               <seg type="diplomatic-text" />
@@ -881,7 +895,7 @@
         <div n="8" type="scan" subtype="diary">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f08-r-c01" facs="#f08-r-c01-region">
-              <seg type="diplomatic-text">塗朱兩木二坐塗朱大板子五立香案一坐高足床畫邊油紙六張四兩黃</seg>
+              <seg type="diplomatic-text">塗朱馬木二坐塗朱大板子五立香案一坐高足床畫邊油紙六張四兩黃</seg>
             </ab>
             <ab type="column" n="2" xml:id="f08-r-c02" facs="#f08-r-c02-region">
               <seg type="diplomatic-text">燭一雙鍮大燭臺一雙鍮香爐一坐鍮香盒一坐鍮火爐一坐鍮大也一坐火</seg>
@@ -901,7 +915,7 @@
               <seg type="diplomatic-text">捲草初裹次白苧帒　再裹次紅紬長三尺二幅袱　函外裹次紅紬六幅袱</seg>
             </ab>
             <ab type="column" n="6" xml:id="f08-r-c06" facs="#f08-r-c06-region">
-              <seg type="diplomatic-text">封裹次紅鄕縷三甲所　負函次紅綿縷三甲所　封裹後覆函次紅紬五幅袱</seg>
+              <seg type="diplomatic-text">封裹次紅鄕綠三甲所　負函次紅綿綠三甲所　封裹後覆函次紅紬五幅袱</seg>
             </ab>
             <ab type="column" n="7" xml:id="f08-r-c07" facs="#f08-r-c07-region">
               <seg type="diplomatic-text">紅木牌　葉紙硯筆墨</seg>
@@ -924,13 +938,13 @@
               </note>
             </ab>
             <ab type="column" n="12" xml:id="f08-r-c12" facs="#f08-r-c12-region">
-              <seg type="diplomatic-text">安胎中使金圭復從事官崔錫斗清道警務官貳員奏時官一員相土官</seg>
+              <seg type="diplomatic-text">安胎中使金圭復從事官崔錫斗清道警務官員二員奏時官一員相土官</seg>
             </ab>
             <ab type="column" n="13" xml:id="f08-r-c13" facs="#f08-r-c13-region">
-              <seg type="diplomatic-text">一員別監一人看役書員二人陪胎書員一人武監六人奉　胎缸安于函盛于</seg>
+              <seg type="diplomatic-text">一員別監一人看役書員一人陪胎書員一人武監六人奉　胎缸安于函盛于</seg>
             </ab>
             <ab type="column" n="14" xml:id="f08-r-c14" facs="#f08-r-c14-region">
-              <seg type="diplomatic-text">樓子擔持軍四名　沙炬六柄　奉炬軍六名奉樓子軍四名扶擔</seg>
+              <seg type="diplomatic-text">樓子擔持軍四名　望炬六柄　奉炬軍六名奉樓子軍四名扶□</seg>
               <note type="source-note" n="7">
                 <seg type="note-line" n="1">
                   <seg type="diplomatic-text">主殿司</seg>
@@ -939,7 +953,7 @@
                   <seg type="diplomatic-text">舉行</seg>
                 </seg>
               </note>
-              <note type="source-note" n="12">
+              <note type="source-note" n="unknown">
                 <seg type="note-line" n="1">
                   <seg type="diplomatic-text">會計院</seg>
                 </seg>
@@ -951,7 +965,7 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f08-l-c01" facs="#f08-l-c01-region">
-              <seg type="diplomatic-text">軍二名　內吹六名依例舉行今番則進而不依進發程路自錫類門宣</seg>
+              <seg type="diplomatic-text">軍二名　內吹六名依例舉行今番則進而不作進發程路自錫類門宣</seg>
               <note type="source-note" n="3">
                 <seg type="note-line" n="1">
                   <seg type="diplomatic-text">侍從院</seg>
@@ -962,10 +976,10 @@
               </note>
             </ab>
             <ab type="column" n="2" xml:id="f08-l-c02" facs="#f08-l-c02-region">
-              <seg type="diplomatic-text">陽門新建木柵門銀行所前路貞洞明禮宮前路紛帥洞黃土峴惠政橋把子廛</seg>
+              <seg type="diplomatic-text">陽門新建木柵門銀行所前路貞洞明禮宮前路□帥洞黃土峴惠政橋把子廛</seg>
             </ab>
             <ab type="column" n="3" xml:id="f08-l-c03" facs="#f08-l-c03-region">
-              <seg type="diplomatic-text">石橋敦化門前路金虎門進善門肅章門建陽門銅龍門景化門集禮門崇</seg>
+              <seg type="diplomatic-text">石橋敦化門前路金虎門進善門肅章門達陽門銅龍門景化門集禮門崇</seg>
             </ab>
             <ab type="column" n="4" xml:id="f08-l-c04" facs="#f08-l-c04-region">
               <seg type="diplomatic-text">智門明光門青陽門金馬門演慶堂前路詣凌虛亭藏胎于凌虛亭南麓子</seg>
@@ -974,8 +988,8 @@
               <seg type="diplomatic-text">坐</seg>
             </ab>
             <ab type="column" n="6" xml:id="f08-l-c06" facs="#f08-l-c06-region">
-              <seg type="diplomatic-text">美飯分排　羹一盒飯一盒</seg>
-              <note type="source-note" n="4">
+              <seg type="diplomatic-text">羹飯分排　羹一盒　飯一盒</seg>
+              <note type="source-note" n="unknown">
                 <seg type="note-line" n="1">
                   <seg type="diplomatic-text">同日</seg>
                 </seg>
@@ -1000,7 +1014,7 @@
               <seg type="diplomatic-text">護產廳以下</seg>
             </ab>
             <ab type="column" n="13" xml:id="f08-l-c13" facs="#f08-l-c13-region">
-              <seg type="diplomatic-text">十月十五日即三七日也其時羹飯與米藿分排</seg>
+              <seg type="diplomatic-text">十月十五日即三七日也其時羹飯與米灌分排</seg>
             </ab>
             <ab type="column" n="14" xml:id="f08-l-c14" facs="#f08-l-c14-region">
               <seg type="diplomatic-text">醫官廳以下</seg>
@@ -1026,7 +1040,7 @@
               <seg type="diplomatic-text">次知金圭復熟馬一匹　面給從事官崔錫斗白木二疋　賜給次知房使令二名房</seg>
             </ab>
             <ab type="column" n="6" xml:id="f09-r-c06" facs="#f09-r-c06-region">
-              <seg type="diplomatic-text">直一名飯工一名水工二名各布一疋　賜給從事官房使令二名房直一名飯工</seg>
+              <seg type="diplomatic-text">直一名飯工一名水工一名各布一疋　賜給從事官房使令二名房直一名飯工</seg>
             </ab>
             <ab type="column" n="7" xml:id="f09-r-c07" facs="#f09-r-c07-region">
               <seg type="diplomatic-text">一名水工一名各布一疋　賜給司鑰一人別監二人各白木一疋木一疋水工一</seg>
@@ -1044,13 +1058,13 @@
               <seg type="diplomatic-text">捲草官朴準承花方紬一疋綿紬一疋雇員金龍煥劉浩榮各白木一疋官木</seg>
             </ab>
             <ab type="column" n="12" xml:id="f09-r-c12" facs="#f09-r-c12-region">
-              <seg type="diplomatic-text">一疋待令雇員朴胤錫趙衡鎮池殷錫各木一疋醫女竹葉真香各綿紬一</seg>
+              <seg type="diplomatic-text">一疋待令雇員朴胤錫趙衡鎭池殷錫各木一疋醫女竹葉真香各綿紬一</seg>
             </ab>
             <ab type="column" n="13" xml:id="f09-r-c13" facs="#f09-r-c13-region">
-              <seg type="diplomatic-text">疋木一疋木一疋　賜給抄奴金永順使令趙元俊成福龍各木一疋待令使令二</seg>
+              <seg type="diplomatic-text">白木一疋木一疋　賜給抄奴金永順使令趙元俊成福龍各木一疋待令使令二</seg>
             </ab>
             <ab type="column" n="14" xml:id="f09-r-c14" facs="#f09-r-c14-region">
-              <seg type="diplomatic-text">名軍士英到基永待令軍士三名童便軍士二名各布一疋　賜給</seg>
+              <seg type="diplomatic-text">名軍士英釗基永待令軍士三名童便軍士二名各布一疋　賜給</seg>
             </ab>
           </div>
           <div type="page-face" n="left">

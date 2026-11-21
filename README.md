@@ -4,11 +4,11 @@
 
 Compiled in 1897 at Gyeongungung Palace in Hanseong (present-day Seoul), the Royal Maternity Directorate’s diary documents the care of Consort Eom and her newborn. Entries describe the mother’s condition and meals and the infant’s feeding, sleep and elimination. They also identify physicians and medical women, report bathing, and record court ceremonies and rewards. The Literary Chinese manuscript is Jangseogak K2-3618, Academy of Korean Studies.
 
-## V0.1.0
+## V0.2.0
 
-全10幅都有館方定位，正文自第002幅左至第009幅右，14面196界欄，相關細字分層，封題及空葉保留。提供TXT、JSON和TEI XML，歷史日期依原文。AI輔助初錄，將疑讀與原圖位置保存。未經人類全文雙校、專家審定或準確率量測。
+全10幅都有館方定位，正文自第002幅左至第009幅右，14面196界欄，相關細字分層，封題及空葉保留。提供TXT、JSON和TEI XML，歷史日期依原文。比對獨立原圖讀法後回圖裁定，採用 52 筆訂正，留存疑讀定位。
 
-References all 10 catalogue images. The diary spans scan 2 left through scan 9 right, 14 faces with 196 rulings. The TXT, JSON and TEI XML preserve column locations, annotations, the cover title and blanks. AI-assisted initial transcription with uncertain readings and source positions. No full human double collation, expert review, or accuracy assessment was conducted.
+References all 10 catalogue images. The diary spans scan 2 left through scan 9 right, 14 faces with 196 rulings. The TXT, JSON and TEI XML preserve column locations, annotations, the cover title and blanks. An independent image reading was compared with the first transcription. Source-image adjudication adopted 52 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

@@ -38,15 +38,66 @@
       8,
       9
     ],
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "diary_boundary": [
       "f002L",
       "f009R"
     ],
     "coordinate_system": "top-left level-12 Deep Zoom raster pixels; approximate printed ruling bins",
-    "version": "0.1.0",
+    "diary_date_index": [
+      {
+        "image": 2,
+        "side": "left",
+        "column": 1,
+        "source_text": "○光武元年丁酉九月二十五日辛亥晴吹西風亥初二刻十二分",
+        "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137"
+      },
+      {
+        "image": 3,
+        "side": "right",
+        "column": 5,
+        "source_text": "○光武元年丁酉九月二十六日壬子晴吹西風辰時",
+        "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131"
+      },
+      {
+        "image": 4,
+        "side": "right",
+        "column": 14,
+        "source_text": "○光武元年丁酉九月二十七日癸丑晴吹西風辰時",
+        "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820"
+      },
+      {
+        "image": 6,
+        "side": "right",
+        "column": 3,
+        "source_text": "○光武元年丁酉九月二十八日甲寅曉雨辰時",
+        "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383"
+      },
+      {
+        "image": 6,
+        "side": "left",
+        "column": 3,
+        "source_text": "○光武元年丁酉九月二十九日乙卯晴吹西風辰時",
+        "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383"
+      },
+      {
+        "image": 7,
+        "side": "right",
+        "column": 12,
+        "source_text": "○光武元年丁酉九月三十日丙辰晴吹西風辰時",
+        "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+      },
+      {
+        "image": 7,
+        "side": "left",
+        "column": 10,
+        "source_text": "○光武元年丁酉十月初一日丁巳晴",
+        "canvas_id": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100"
+      }
+    ],
+    "version": "0.2.0",
     "dataset_title": "護産廳小日記（1897年，韓國學中央研究院藏書閣 K2-3618） / Hosan-cheong so ilgi [Daily Records of the Royal Maternity Directorate for Consort Eom]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -66,7 +117,7 @@
       "native_height": 2899,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143548699.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143548699",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "single",
@@ -102,7 +153,7 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143608137.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143608137",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "right",
@@ -330,7 +381,7 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143631131.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143631131",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "right",
@@ -360,7 +411,7 @@
               "facs": "f03-r-c06-region"
             },
             {
-              "text": "奏醫女言內宮人嚴氏分娩後氣候連為平安以和飯藿湯三巡而新生阿只氏善",
+              "text": "奏醫女言內宮人嚴氏分娩後氣候連為平安以和飯灌湯三巡而新生阿只氏善",
               "facs": "f03-r-c07-region"
             },
             {
@@ -431,7 +482,7 @@
               "facs": "f03-l-c05-region"
             },
             {
-              "text": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯一巡阿只氏善為吮乳眠睡連",
+              "text": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯灌湯一巡阿只氏善為吮乳眠睡連",
               "facs": "f03-l-c06-region"
             },
             {
@@ -443,7 +494,7 @@
               "facs": "f03-l-c08-region"
             },
             {
-              "text": "羌古道魚五箇醫女竹葉真香　入之從事官　捧入",
+              "text": "□古道魚五箇醫女竹葉真香　入之從事官　捧入",
               "facs": "f03-l-c09-region"
             },
             {
@@ -451,7 +502,7 @@
               "facs": "f03-l-c10-region"
             },
             {
-              "text": "奏醫女言內宮人嚴氏諸節一向平安喫和飯藿湯三巡阿只氏善為吮乳眠",
+              "text": "奏醫女言內宮人嚴氏諸節一向平安喫和飯灌湯三巡阿只氏善為吮乳眠",
               "facs": "f03-l-c11-region"
             },
             {
@@ -767,13 +818,13 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143659820.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143659820",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "奏明日乃是宮人嚴氏分娩後第三日也洗浴吉時令日官推擇則宮人嚴氏",
+              "text": "奏明日乃是宮人嚴氏分娩後第三日也洗浴吉時今日官推擇則宮人嚴氏",
               "facs": "f04-r-c01-region"
             },
             {
@@ -781,7 +832,7 @@
               "facs": "f04-r-c02-region"
             },
             {
-              "text": "時為吉云洗胎水當取月德丙方水用之矣竊伏念當此洗胎日氣稍寒恐",
+              "text": "時為吉云洗胎水當取月德丙方水用之矣□伏念當此洗胎日氣稍寒恐",
               "facs": "f04-r-c03-region"
             },
             {
@@ -805,7 +856,7 @@
               "facs": "f04-r-c08-region"
             },
             {
-              "text": "奏洗胎水取月德丙方令醫女洗百度後以酒更洗古銅錢一箇以字面先入內胎缸棺",
+              "text": "奏洗胎水取月德丙方令醫女洗百度後以酒更洗古銅錢一箇以字面先入內胎缸底",
               "facs": "f04-r-c09-region"
             },
             {
@@ -847,12 +898,13 @@
           "side": "left",
           "columns": [
             {
-              "text": "洗胎次月德丙方水于正汲取時仁化門請留排黻四坐于肅雍齋北庭",
+              "text": "洗胎次月德丙方水子正汲取時仁化門請留排甕四坐于肅雍齋北庭",
               "notes": [
                 {
-                  "after": 28,
+                  "after": null,
                   "lines": [
-                    "或有"
+                    "咸",
+                    "有"
                   ],
                   "source_feature": "004L-c01-n01",
                   "position_note": "北庭後",
@@ -882,11 +934,11 @@
               "facs": "f04-l-c03-region"
             },
             {
-              "text": "護產官主事以黑團領率員役入就肅雍齋後庭與次知從事官序立醫女",
+              "text": "護產官主事以黑團領率貟役入就肅雍齋後庭與次知從事官序立醫女",
               "facs": "f04-l-c04-region"
             },
             {
-              "text": "竹葉真香奉出胎缸移盛于陶所羅注丙方水洗之洗胎水移盛另排罐內",
+              "text": "竹葉真香奉出胎缸移盛于陶所羅注丙方水洗之洗胎水移盛另排甕內",
               "facs": "f04-l-c05-region"
             },
             {
@@ -914,11 +966,11 @@
               "facs": "f04-l-c08-region"
             },
             {
-              "text": "白綿花以白缸入於外白缸中以白綿花堅補齊缸口以草注紙覆綿花上",
+              "text": "白綿花以白缸入於外白缸中以白綿花堅闐齊缸口以草注紙覆綿花上",
               "facs": "f04-l-c09-region"
             },
             {
-              "text": "堅補勿動又以白綿花厚覆紙上甘糖作泥如缸口圓切比缸口四面剰一",
+              "text": "堅闐勿動又以白綿花厚覆紙上甘糖作尼如缸口圓切比缸口四面剩一",
               "facs": "f04-l-c10-region"
             },
             {
@@ -926,11 +978,22 @@
               "facs": "f04-l-c11-region"
             },
             {
-              "text": "封書次知中官姓　護產醫官姓姓名而并着署懸紅木牌於蓋丁上前面以護",
+              "text": "封書次知中官姓　護產醫官姓而并着署懸紅木牌於蓋丁上前面以護",
               "facs": "f04-l-c12-region"
             },
             {
-              "text": "行書　光武元年九月二十五日",
+              "text": "行書",
+              "notes": [
+                {
+                  "after": null,
+                  "lines": [
+                    "光武元年九月二十五日"
+                  ],
+                  "source_feature": "004L-c13-n01",
+                  "position_note": "欄內小字，位置見訂正紀錄",
+                  "editorial_note": "小字位於行書下方同界欄。"
+                }
+              ],
               "facs": "f04-l-c13-region"
             },
             {
@@ -1238,13 +1301,13 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143742782.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143742782",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "耳陶豆毛中舖常毛種一立以胎缸入陶豆毛內四面堅補而又以常毛種",
+              "text": "耳陶豆毛中鋪常毛種一立以胎缸入陶豆毛內四面堅闐而又以常毛種",
               "facs": "f05-r-c01-region"
             },
             {
@@ -1256,7 +1319,7 @@
               "facs": "f05-r-c03-region"
             },
             {
-              "text": "洗胎水棄汲於月空生方內用器皿等物從事率納于本房",
+              "text": "洗胎水棄汲於月空壬方所用器皿等物從事率納于本房",
               "facs": "f05-r-c04-region"
             },
             {
@@ -1264,7 +1327,7 @@
               "facs": "f05-r-c05-region"
             },
             {
-              "text": "奏醫女言內宮人嚴氏夜來氣候平安喫和飯藿湯二巡而阿只氏善為吮乳",
+              "text": "奏醫女言內宮人嚴氏夜來氣候平安喫和飯灌湯二巡而阿只氏善為吮乳",
               "facs": "f05-r-c06-region"
             },
             {
@@ -1285,7 +1348,8 @@
                 {
                   "after": 29,
                   "lines": [
-                    "洗浴"
+                    "洗",
+                    "浴"
                   ],
                   "source_feature": "005R-c10-n01",
                   "position_note": "入之後",
@@ -1343,7 +1407,7 @@
                 {
                   "after": null,
                   "lines": [
-                    "細"
+                    "紬"
                   ],
                   "source_feature": "005L-c03-n01",
                   "position_note": "藍綿一之間",
@@ -1361,7 +1425,7 @@
               "facs": "f05-l-c05-region"
             },
             {
-              "text": "阿只氏洗浴次李根桃根梅根煎水席頭骨煎水和豬膽汁一鍮大也入之從",
+              "text": "阿只氏洗浴次李根桃根梅根煎水席頭骨煎水和猪膽汁一鍮大也入之從",
               "facs": "f05-l-c06-region"
             },
             {
@@ -1373,7 +1437,7 @@
               "facs": "f05-l-c08-region"
             },
             {
-              "text": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯藿湯二巡阿只氏善為吮乳洗",
+              "text": "奏醫女言內宮人嚴氏氣候與朝一樣喫和飯灌湯二巡阿只氏善為吮乳洗",
               "facs": "f05-l-c09-region"
             },
             {
@@ -1385,7 +1449,7 @@
               "facs": "f05-l-c11-region"
             },
             {
-              "text": "傳緩次塊石雄黃塊鏡面各一兩重主事玄東完　入之捧入",
+              "text": "傳纏次塊石雄黃塊鏡面各一兩重主事玄東完　入之捧入",
               "facs": "f05-l-c12-region"
             },
             {
@@ -1697,7 +1761,7 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143827383.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143827383",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "right",
@@ -1707,7 +1771,7 @@
               "facs": "f06-r-c01-region"
             },
             {
-              "text": "賜饋",
+              "text": "賜饌",
               "facs": "f06-r-c02-region"
             },
             {
@@ -1719,7 +1783,7 @@
               "facs": "f06-r-c04-region"
             },
             {
-              "text": "奏醫女言內貴人嚴氏夜來氣候平安喫和飯藿湯二巡阿只氏善為吮乳大",
+              "text": "奏醫女言內貴人嚴氏夜來氣候平安喫和飯灌湯二巡阿只氏善為吮乳大",
               "facs": "f06-r-c05-region"
             },
             {
@@ -1755,7 +1819,7 @@
               "facs": "f06-r-c13-region"
             },
             {
-              "text": "奏醫女言內貴人氣候平安喫和飯藿湯一巡阿只氏吮乳眠睡亦為安穩之意詮",
+              "text": "奏醫女言內貴人氣候平安喫和飯灌湯一巡阿只氏吮乳眠睡亦為安穩之意詮",
               "facs": "f06-r-c14-region"
             }
           ],
@@ -1782,7 +1846,7 @@
               "facs": "f06-l-c04-region"
             },
             {
-              "text": "奏醫女言內貴人氣候夜來一向平安喫和飯藿湯一巡而阿只氏善為吮乳",
+              "text": "奏醫女言內貴人氣候夜來一向平安喫和飯灌湯一巡而阿只氏善為吮乳",
               "facs": "f06-l-c05-region"
             },
             {
@@ -1798,7 +1862,7 @@
               "facs": "f06-l-c08-region"
             },
             {
-              "text": "奏醫女言內貴人氣候平安喫和飯藿湯一巡而阿只氏善為吮乳而二次大便",
+              "text": "奏醫女言內貴人氣候平安喫和飯灌湯一巡而阿只氏善為吮乳而二次大便",
               "facs": "f06-l-c09-region"
             },
             {
@@ -1814,7 +1878,7 @@
               "facs": "f06-l-c12-region"
             },
             {
-              "text": "奏醫女言內貴人氣候一向喫和飯藿湯一巡阿只氏三次吮乳一次大便眠睡亦",
+              "text": "奏醫女言內貴人氣候一向喫和飯灌湯一巡阿只氏三次吮乳一次大便眠睡亦",
               "facs": "f06-l-c13-region"
             },
             {
@@ -2122,7 +2186,7 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030143907100.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030143907100",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "right",
@@ -2141,7 +2205,7 @@
                 {
                   "after": null,
                   "lines": [
-                    "朱黃麝三種"
+                    "參黃麝三種"
                   ],
                   "source_feature": "007R-c03-n01",
                   "position_note": "依例製入後",
@@ -2159,7 +2223,7 @@
               "facs": "f07-r-c05-region"
             },
             {
-              "text": "未時童阿只氏臍帶脫下後古例有雲母膏付貼然今番則只以雪綿子緊",
+              "text": "未時量阿只氏臍帶脫下後古例有雲母膏付貼然今番則只以雪綿子緊",
               "facs": "f07-r-c06-region"
             },
             {
@@ -2176,7 +2240,7 @@
                 {
                   "after": 12,
                   "lines": [
-                    "下人聽煎供"
+                    "下人廳煎供"
                   ],
                   "source_feature": "007R-c09-n01",
                   "position_note": "二貼後",
@@ -2190,7 +2254,7 @@
               "facs": "f07-r-c10-region"
             },
             {
-              "text": "賜饋",
+              "text": "賜饌",
               "facs": "f07-r-c11-region"
             },
             {
@@ -2225,11 +2289,11 @@
               "facs": "f07-l-c03-region"
             },
             {
-              "text": "奏醫女言內貴人氣候與朝一樣喫和飯藿湯二巡而阿只氏善為吮乳大小便",
+              "text": "奏醫女言內貴人氣候與朝一樣喫和飯灌湯二巡而阿只氏善為吮乳大小便",
               "facs": "f07-l-c04-region"
             },
             {
-              "text": "調順眠睡亦安穩之意詮次書　奏",
+              "text": "調順眠睡亦為安穩之意詮次書　奏",
               "facs": "f07-l-c05-region"
             },
             {
@@ -2254,7 +2318,8 @@
                 {
                   "after": 15,
                   "lines": [
-                    "即一七日也辰時"
+                    "即一七日也",
+                    "辰時"
                   ],
                   "source_feature": "007L-c10-n01",
                   "position_note": "晴後",
@@ -2268,7 +2333,7 @@
               "facs": "f07-l-c11-region"
             },
             {
-              "text": "命正銀八十兩命紬十疋命紬十疋命紬黃絲十斤命白米一百斗分十帒",
+              "text": "命正銀八十兩命絹十疋命紬十疋命紬黃絮十斤命白米一百斗分十帒",
               "facs": "f07-l-c12-region"
             },
             {
@@ -2603,13 +2668,13 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030144011638.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144011638",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "塗朱兩木二坐塗朱大板子五立香案一坐高足床畫邊油紙六張四兩黃",
+              "text": "塗朱馬木二坐塗朱大板子五立香案一坐高足床畫邊油紙六張四兩黃",
               "facs": "f08-r-c01-region"
             },
             {
@@ -2640,7 +2705,7 @@
               "facs": "f08-r-c05-region"
             },
             {
-              "text": "封裹次紅鄕縷三甲所　負函次紅綿縷三甲所　封裹後覆函次紅紬五幅袱",
+              "text": "封裹次紅鄕綠三甲所　負函次紅綿綠三甲所　封裹後覆函次紅紬五幅袱",
               "facs": "f08-r-c06-region"
             },
             {
@@ -2675,15 +2740,15 @@
               "facs": "f08-r-c11-region"
             },
             {
-              "text": "安胎中使金圭復從事官崔錫斗清道警務官貳員奏時官一員相土官",
+              "text": "安胎中使金圭復從事官崔錫斗清道警務官員二員奏時官一員相土官",
               "facs": "f08-r-c12-region"
             },
             {
-              "text": "一員別監一人看役書員二人陪胎書員一人武監六人奉　胎缸安于函盛于",
+              "text": "一員別監一人看役書員一人陪胎書員一人武監六人奉　胎缸安于函盛于",
               "facs": "f08-r-c13-region"
             },
             {
-              "text": "樓子擔持軍四名　沙炬六柄　奉炬軍六名奉樓子軍四名扶擔",
+              "text": "樓子擔持軍四名　望炬六柄　奉炬軍六名奉樓子軍四名扶□",
               "notes": [
                 {
                   "after": 7,
@@ -2696,7 +2761,7 @@
                   "editorial_note": "小字兩列。"
                 },
                 {
-                  "after": 12,
+                  "after": null,
                   "lines": [
                     "會計院",
                     "舉行"
@@ -2716,7 +2781,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "軍二名　內吹六名依例舉行今番則進而不依進發程路自錫類門宣",
+              "text": "軍二名　內吹六名依例舉行今番則進而不作進發程路自錫類門宣",
               "notes": [
                 {
                   "after": 3,
@@ -2732,11 +2797,11 @@
               "facs": "f08-l-c01-region"
             },
             {
-              "text": "陽門新建木柵門銀行所前路貞洞明禮宮前路紛帥洞黃土峴惠政橋把子廛",
+              "text": "陽門新建木柵門銀行所前路貞洞明禮宮前路□帥洞黃土峴惠政橋把子廛",
               "facs": "f08-l-c02-region"
             },
             {
-              "text": "石橋敦化門前路金虎門進善門肅章門建陽門銅龍門景化門集禮門崇",
+              "text": "石橋敦化門前路金虎門進善門肅章門達陽門銅龍門景化門集禮門崇",
               "facs": "f08-l-c03-region"
             },
             {
@@ -2748,10 +2813,10 @@
               "facs": "f08-l-c05-region"
             },
             {
-              "text": "美飯分排　羹一盒飯一盒",
+              "text": "羹飯分排　羹一盒　飯一盒",
               "notes": [
                 {
-                  "after": 4,
+                  "after": null,
                   "lines": [
                     "同日"
                   ],
@@ -2787,7 +2852,7 @@
               "facs": "f08-l-c12-region"
             },
             {
-              "text": "十月十五日即三七日也其時羹飯與米藿分排",
+              "text": "十月十五日即三七日也其時羹飯與米灌分排",
               "facs": "f08-l-c13-region"
             },
             {
@@ -3095,7 +3160,7 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030144107361.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144107361",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "right",
@@ -3121,7 +3186,7 @@
               "facs": "f09-r-c05-region"
             },
             {
-              "text": "直一名飯工一名水工二名各布一疋　賜給從事官房使令二名房直一名飯工",
+              "text": "直一名飯工一名水工一名各布一疋　賜給從事官房使令二名房直一名飯工",
               "facs": "f09-r-c06-region"
             },
             {
@@ -3145,15 +3210,15 @@
               "facs": "f09-r-c11-region"
             },
             {
-              "text": "一疋待令雇員朴胤錫趙衡鎮池殷錫各木一疋醫女竹葉真香各綿紬一",
+              "text": "一疋待令雇員朴胤錫趙衡鎭池殷錫各木一疋醫女竹葉真香各綿紬一",
               "facs": "f09-r-c12-region"
             },
             {
-              "text": "疋木一疋木一疋　賜給抄奴金永順使令趙元俊成福龍各木一疋待令使令二",
+              "text": "白木一疋木一疋　賜給抄奴金永順使令趙元俊成福龍各木一疋待令使令二",
               "facs": "f09-r-c13-region"
             },
             {
-              "text": "名軍士英到基永待令軍士三名童便軍士二名各布一疋　賜給",
+              "text": "名軍士英釗基永待令軍士三名童便軍士二名各布一疋　賜給",
               "facs": "f09-r-c14-region"
             }
           ],
@@ -3331,7 +3396,7 @@
       "native_height": 2894,
       "descriptor_url": "https://jsg.aks.ac.kr/jsgimg/data/images/2018/10/30/dzi/20181030144136611.xml",
       "image_url": "https://jsg.aks.ac.kr/jsgimg/view?qCond=bookId&q=K2-3618_001&id=20181030144136611",
-      "state": "initial-read",
+      "state": "reviewed",
       "sides": [
         {
           "side": "single",
